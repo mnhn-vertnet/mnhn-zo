@@ -1,0 +1,303 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 329
+Number of records retrieved in searches: 4151
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Czech Republic ; Times: 3
+	Country: Germany ; Times: 199
+	Country: India ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: United Kingdom ; Times: 24
+	Country: United States ; Times: 85
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 15
+	Date: 2015-05-06 ; Times: 22
+	Date: 2015-05-07 ; Times: 8
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-09 ; Times: 9
+	Date: 2015-05-10 ; Times: 5
+	Date: 2015-05-11 ; Times: 20
+	Date: 2015-05-12 ; Times: 15
+	Date: 2015-05-13 ; Times: 2
+	Date: 2015-05-14 ; Times: 12
+	Date: 2015-05-15 ; Times: 7
+	Date: 2015-05-16 ; Times: 62
+	Date: 2015-05-17 ; Times: 37
+	Date: 2015-05-18 ; Times: 13
+	Date: 2015-05-19 ; Times: 1
+	Date: 2015-05-20 ; Times: 19
+	Date: 2015-05-21 ; Times: 2
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-23 ; Times: 4
+	Date: 2015-05-24 ; Times: 24
+	Date: 2015-05-25 ; Times: 11
+	Date: 2015-05-26 ; Times: 12
+	Date: 2015-05-27 ; Times: 3
+	Date: 2015-05-28 ; Times: 3
+	Date: 2015-05-29 ; Times: 10
+	Date: 2015-05-30 ; Times: 7
+	Date: 2015-05-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "Oligura castaneocoronata mnhn" ; Times: 1
+	Query: "Saxicola torquatus sibilla" ; Times: 1
+	Query: "diardi mnhn" ; Times: 2
+	Query: "MNHN-1932-3776" ; Times: 1
+	Query: "Didunculus" ; Times: 1
+	Query: "Coua cristata dumonti mnhn" ; Times: 1
+	Query: "Tyrannus mnhn" ; Times: 2
+	Query: "Pterocles alchata" ; Times: 4
+	Query: "turdoides malcolmi" ; Times: 4
+	Query: "otus sunia" ; Times: 1
+	Query: "cisticola mnhn" ; Times: 5
+	Query: "Megalaima corvina SKIN" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "accipiter trivirgatus" ; Times: 2
+	Query: "strix leptogrammica" ; Times: 1
+	Query: "Chalcophaps indica sandwichensis" ; Times: 1
+	Query: "copsychus malabaricus" ; Times: 2
+	Query: "Foudia mnhn" ; Times: 2
+	Query: "turdoides affinis" ; Times: 6
+	Query: "Phedina mnhn" ; Times: 3
+	Query: "Todiramphus chloris albicilla type:specimen" ; Times: 1
+	Query: ""Buteo" institutioncode:mnhn" ; Times: 3
+	Query: "scolopax rusticola" ; Times: 1
+	Query: "albogularis mnhn" ; Times: 1
+	Query: "Lepidogrammus cumingi mnhn" ; Times: 1
+	Query: "Brazzae mnhn" ; Times: 2
+	Query: "celebensis mnhn" ; Times: 1
+	Query: "psittacula eupatria" ; Times: 2
+	Query: "castaneocoronata mnhn" ; Times: 1
+	Query: "Aegithalos fuliginosus mnhn" ; Times: 1
+	Query: "Turnix mnhn" ; Times: 7
+	Query: "pionus maximiliani" ; Times: 1
+	Query: "Gallicolumba johannae" ; Times: 2
+	Query: "amazona rhodocorytha" ; Times: 1
+	Query: "Cerorhinca monocerata year >= 1800 year <= 1850" ; Times: 1
+	Query: "gouldii mnhn" ; Times: 2
+	Query: "pseudibis davisoni" ; Times: 1
+	Query: "grus antigone" ; Times: 1
+	Query: "Coua cristata dumonti" ; Times: 1
+	Query: "turnix mnhn" ; Times: 12
+	Query: "prinia mnhn" ; Times: 8
+	Query: "bernieri mnhn" ; Times: 3
+	Query: "samoensis mnhn" ; Times: 4
+	Query: "coracina mnhn" ; Times: 10
+	Query: "Geotrygon saphirina" ; Times: 20
+	Query: "Francolinus mnhn" ; Times: 2
+	Query: "Stachyris leucotis" ; Times: 1
+	Query: "Contopus latirostris mnhn" ; Times: 2
+	Query: "Guttera mnhn" ; Times: 2
+	Query: "flammulatus mnhn" ; Times: 4
+	Query: "aviceda leuphotes" ; Times: 2
+	Query: "frontalis mnhn" ; Times: 2
+	Query: "Calonectris edwardsii mnhn" ; Times: 1
+	Query: "Turdus falcklandii mnhn" ; Times: 1
+	Query: "Centropus melanops mnhn" ; Times: 1
+	Query: "batrachostomus cornutus" ; Times: 1
+	Query: "bruijnii mnhn" ; Times: 2
+	Query: "eumyias albicaudatus" ; Times: 2
+	Query: "cettia mnhn" ; Times: 1
+	Query: "gigantea mnhn" ; Times: 1
+	Query: "anser indicus" ; Times: 1
+	Query: "neomorphus geoffroyi" ; Times: 1
+	Query: ""Parus major" year >= 1938 year <= 1938" ; Times: 1
+	Query: "Anthus mnhn" ; Times: 2
+	Query: "grus virgo" ; Times: 1
+	Query: "pterocles indicus" ; Times: 1
+	Query: "Contopus mnhn" ; Times: 1
+	Query: "aythya nyroca" ; Times: 1
+	Query: "Actenoides hombroni" ; Times: 1
+	Query: "muscicapa ruficauda" ; Times: 4
+	Query: "analis mnhn" ; Times: 1
+	Query: "Psilopogon skin" ; Times: 1
+	Query: "rallus mnhn" ; Times: 1
+	Query: "garrulax delesserti" ; Times: 1
+	Query: "Turdus bewsheri comorensis mnhn" ; Times: 1
+	Query: "sypheotides indicus" ; Times: 2
+	Query: "Phoenicoparrus andinus" ; Times: 1
+	Query: "Lophophorus mnhn" ; Times: 1
+	Query: "eumyias thalassinus" ; Times: 3
+	Query: "pseudibis gigantea" ; Times: 1
+	Query: "Psittacula sc" ; Times: 5
+	Query: "Megalaima corvina skin" ; Times: 1
+	Query: "MO-1974-2173" ; Times: 2
+	Query: "Aegithalos mnhn" ; Times: 2
+	Query: "Cyanomitra olivacea" ; Times: 1
+	Query: "Anthus furcatus mnhn" ; Times: 1
+	Query: "rhipidura albogularis" ; Times: 4
+	Query: "Acrocephalus luscinius mnhn" ; Times: 2
+	Query: "Microhierax erythrogenys mnhn" ; Times: 1
+	Query: "columba punicea" ; Times: 2
+	Query: "penelope superciliaris" ; Times: 1
+	Query: "Megalaima corvina" ; Times: 2
+	Query: "Cyanomitra olivacea year >= 1940 year <= 2015" ; Times: 2
+	Query: "Anthus lutescens mnhn" ; Times: 1
+	Query: "Centropus ateralbus mnhn" ; Times: 1
+	Query: "Turdus poliocephalus vanikorensis" ; Times: 1
+	Query: "Pterocles personatus" ; Times: 9
+	Query: "barrabandi" ; Times: 1
+	Query: "Knipolegus mnhn" ; Times: 3
+	Query: "Rhynochetos jubatus" ; Times: 2
+	Query: "Myzomela lafargei mnhn" ; Times: 1
+	Query: "Ammomanes deserti mnhn" ; Times: 1
+	Query: "Arremon mnhn" ; Times: 2
+	Query: "pulsatrix" ; Times: 1
+	Query: "Terpsiphone mutata mnhn" ; Times: 1
+	Query: "haliaeetus leucoryphus" ; Times: 1
+	Query: "Philemon subcorniculatus" ; Times: 2
+	Query: "Cisticola bodessa kaffensis" ; Times: 1
+	Query: "pionus sordidus" ; Times: 1
+	Query: "Todiramphus 1822 MNHN" ; Times: 1
+	Query: "phaenicophaeus pyrrhocephalus" ; Times: 1
+	Query: "montrosieri mnhn" ; Times: 1
+	Query: "Ramphocoris clotbey mnhn" ; Times: 1
+	Query: "Centropus bengalensis javanensis mnhn" ; Times: 1
+	Query: "laperouse mnhn" ; Times: 1
+	Query: "Arborophila mnhn" ; Times: 4
+	Query: "Bonvaloti mnhn" ; Times: 4
+	Query: "Monias benschi" ; Times: 2
+	Query: "batis mnhn" ; Times: 1
+	Query: "Coua cristata pyropyga mnhn" ; Times: 1
+	Query: "acanthizoides mnhn" ; Times: 2
+	Query: ""Parus major" year >= 1937 year <= 1937" ; Times: 1
+	Query: "Centropus toulou mnhn" ; Times: 1
+	Query: "jobiensis mnhn" ; Times: 3
+	Query: "leptoptilos dubius" ; Times: 4
+	Query: "ficedula albicilla" ; Times: 1
+	Query: "pterocles exustus" ; Times: 5
+	Query: "Coracina striata" ; Times: 1
+	Query: "MNHN-1931-528" ; Times: 1
+	Query: "psittacula wardi type:specimen" ; Times: 1
+	Query: "ficedula nigrorufa" ; Times: 1
+	Query: "Coua verreauxi mnhn" ; Times: 1
+	Query: "decollatus mnhn" ; Times: 3
+	Query: "Anthus correndera chilensis mnhn" ; Times: 1
+	Query: "centropus toulou" ; Times: 1
+	Query: "Meleagris mnhn" ; Times: 2
+	Query: "Actenoides hombroni mnhn" ; Times: 1
+	Query: "Trochilus mnhn" ; Times: 3
+	Query: "hirundo mnhn" ; Times: 2
+	Query: "Centropus anselli mnhn" ; Times: 1
+	Query: "Centropus menbeki mnhn" ; Times: 1
+	Query: "leptoptilos javanicus" ; Times: 1
+	Query: "torquata mnhn" ; Times: 1
+	Query: "bocagei mnhn" ; Times: 3
+	Query: "Megapodius mnhn" ; Times: 6
+	Query: "Otidiphaps nobilis" ; Times: 1
+	Query: "Arachnothera flavigaster" ; Times: 2
+	Query: "crossleyi mnhn" ; Times: 3
+	Query: "davidiana mnhn" ; Times: 3
+	Query: "Turdoides type:specimen year >= 1980" ; Times: 2
+	Query: "Megapodius freycinet mnhn" ; Times: 1
+	Query: "Petrochelidon mnhn" ; Times: 2
+	Query: "Dasylophus superciliosus mnhn" ; Times: 1
+	Query: "Crax globulosa" ; Times: 2
+	Query: "pseudibis papillosa" ; Times: 1
+	Query: "zoothera dauma" ; Times: 1
+	Query: "ploceus mnhn" ; Times: 1
+	Query: "cyornis pallipes" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "prevostii mnhn" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 84 (out of 976 download events in this period)
+Total number of records downloaded: 1540 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 496
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 2
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 59
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-12 ; Times: 2
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-16 ; Times: 1
+	Date: 2015-05-18 ; Times: 22
+	Date: 2015-05-19 ; Times: 39
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-22 ; Times: 3
+	Date: 2015-05-24 ; Times: 2
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-27 ; Times: 3
+	Date: 2015-05-28 ; Times: 2
+	Date: 2015-05-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyanomitra olivacea" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1956 year <= 1988" ; Times: 1
+	Query: "A.C. Buller" ; Times: 1
+	Query: "Didunculus" ; Times: 1
+	Query: "Motacilla alba type:specimen mappable:1" ; Times: 2
+	Query: "Pterocles personatus" ; Times: 2
+	Query: "stiphrornis" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "Underwood" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Phaetusa simplex simplex" ; Times: 1
+	Query: "Rhynchocyclus" ; Times: 2
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1989 year <= 2015" ; Times: 5
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1891 year <= 1909" ; Times: 4
+	Query: "Neochmia phaeton year >= 1900 year <= 1960" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1890" ; Times: 3
+	Query: "arachnothera" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1925" ; Times: 4
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1909" ; Times: 38
+	Query: "Motacilla alba type:specimen year >= 1926 year <= 1936" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "pionus maximiliani" ; Times: 2
+	Query: "Motacilla alba type:specimen year >= 1937 year <= 1955" ; Times: 1
+	Query: "Streptopelia turtur" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 417
+Total number of records retrieved from searches: 4751
+Number of download events that retrieved data from the resource: 139
+Total number of records downloaded: 2819
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 448
+Total number of records retrieved from searches: 4968
+Number of download events that retrieved data from the resource: 139
+Total number of records downloaded: 2819
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
