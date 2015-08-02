@@ -1,0 +1,172 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 135
+Number of records retrieved in searches: 1008
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 23
+	Country: France ; Times: 1
+	Country: Germany ; Times: 26
+	Country: India ; Times: 4
+	Country: Netherlands ; Times: 6
+	Country: Peru ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Switzerland ; Times: 7
+	Country: United Kingdom ; Times: 13
+	Country: United States ; Times: 51
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 10
+	Date: 2015-07-03 ; Times: 5
+	Date: 2015-07-04 ; Times: 3
+	Date: 2015-07-05 ; Times: 13
+	Date: 2015-07-06 ; Times: 6
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-12 ; Times: 1
+	Date: 2015-07-13 ; Times: 1
+	Date: 2015-07-14 ; Times: 1
+	Date: 2015-07-16 ; Times: 5
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-20 ; Times: 3
+	Date: 2015-07-22 ; Times: 10
+	Date: 2015-07-23 ; Times: 11
+	Date: 2015-07-24 ; Times: 4
+	Date: 2015-07-25 ; Times: 22
+	Date: 2015-07-26 ; Times: 1
+	Date: 2015-07-27 ; Times: 5
+	Date: 2015-07-28 ; Times: 4
+	Date: 2015-07-29 ; Times: 24
+	Date: 2015-07-30 ; Times: 1
+	Date: 2015-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ptiloris mnhn" ; Times: 3
+	Query: "turdoides malcolmi" ; Times: 3
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "muscicapa ferruginea" ; Times: 1
+	Query: "batrachostomus hodgsoni" ; Times: 2
+	Query: "pitta mnhn" ; Times: 1
+	Query: "Raphus cucullatus" ; Times: 8
+	Query: "Circus macrosceles type:specimen" ; Times: 1
+	Query: "mnhn oman" ; Times: 3
+	Query: "Nesillas typica obscura" ; Times: 1
+	Query: "Phoenicopterus roseus type:specimen" ; Times: 1
+	Query: "florisuga fusca" ; Times: 20
+	Query: "criniger chloronotus" ; Times: 1
+	Query: "Schistes geoffroyi mnhn" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 7
+	Query: "Syrmaticus ellioti type:specimen" ; Times: 1
+	Query: "chrysocolaptes festivus" ; Times: 2
+	Query: "muscicapa ruficauda" ; Times: 8
+	Query: "Diomedea epomophora mnhn" ; Times: 1
+	Query: "Rollandia rolland Falkland" ; Times: 1
+	Query: "crax globulosa" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 9
+	Query: "Megapodius decollatus type:specimen" ; Times: 1
+	Query: "Mystacornis crossleyi" ; Times: 1
+	Query: "Nesillas typica year >= 1931 year <= 1931" ; Times: 1
+	Query: "Ninox superciliaris" ; Times: 3
+	Query: "Paradisaea mnhn" ; Times: 3
+	Query: "hieraaetus pennatus" ; Times: 11
+	Query: "Mystacornis crossleyi mnhn" ; Times: 1
+	Query: "Apus pallidus" ; Times: 1
+	Query: "Diomedea amsterdamensis type:specimen" ; Times: 1
+	Query: "Ara tricolor type:specimen country:"Cuba"" ; Times: 1
+	Query: "Eudromia elegans mnhn" ; Times: 2
+	Query: "pteruthius aenobarbus" ; Times: 1
+	Query: "Peale Museum year >= 1700 year <= 1880" ; Times: 1
+	Query: "Ducula luctuosa type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "sterna dougallii" ; Times: 1
+	Query: "aythya nyroca" ; Times: 1
+	Query: "Pipile pipile type:specimen" ; Times: 1
+	Query: "Pygoscelis adeliae mnhn" ; Times: 1
+	Query: "Myzomela mnhn" ; Times: 2
+	Query: "zosterops everetti type:specimen" ; Times: 1
+	Query: "rolland falkland" ; Times: 3
+	Query: "Streptoprocne biscutata" ; Times: 1
+	Query: "Eudyptes moseleyi type:specimen" ; Times: 1
+	Query: "Nesillas typica mnhn" ; Times: 4
+	Query: "podiceps falkland" ; Times: 1
+	Query: "pionus maximiliani" ; Times: 1
+	Query: "Nesillas typica longicaudata" ; Times: 1
+	Query: "Charmosyna diadema type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "Garritornis isidorei mnhn" ; Times: 1
+	Query: "rhodonessa caryophyllacea" ; Times: 1
+	Query: "rolland malvinas" ; Times: 1
+	Query: "Bostrychia bocagei type:specimen" ; Times: 1
+	Query: "Aulacorhynchus griseigularis type:specimen" ; Times: 1
+	Query: "Garritornis isidorei" ; Times: 2
+	Query: "Afropavo congensis type:specimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1084 download events in this period)
+Total number of records downloaded: 674 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 631
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Peru ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-06 ; Times: 2
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 1
+	Date: 2015-07-11 ; Times: 1
+	Date: 2015-07-16 ; Times: 2
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-28 ; Times: 3
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Streptoprocne" ; Times: 1
+	Query: "colibri thalassinus" ; Times: 2
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "crax globulosa" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: ""Tympanuchus cupido cupido"" ; Times: 2
+	Query: "florisuga fusca" ; Times: 1
+	Query: "Geospiza magnirostris" ; Times: 1
+	Query: "Gallicolumba luzonica" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 800
+Total number of records retrieved from searches: 8109
+Number of download events that retrieved data from the resource: 205
+Total number of records downloaded: 4019
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 831
+Total number of records retrieved from searches: 8326
+Number of download events that retrieved data from the resource: 205
+Total number of records downloaded: 4019
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
