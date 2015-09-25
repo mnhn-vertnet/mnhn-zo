@@ -1,0 +1,180 @@
+Report for Institution Code MNHN, Resource ZO
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 56
+Number of records retrieved in searches: 236
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 12
+	Country: India ; Times: 5
+	Country: Jamaica ; Times: 1
+	Country: Russia ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 2
+	Date: 2015-08-02 ; Times: 3
+	Date: 2015-08-03 ; Times: 2
+	Date: 2015-08-06 ; Times: 3
+	Date: 2015-08-07 ; Times: 7
+	Date: 2015-08-08 ; Times: 3
+	Date: 2015-08-10 ; Times: 2
+	Date: 2015-08-11 ; Times: 1
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-17 ; Times: 1
+	Date: 2015-08-18 ; Times: 2
+	Date: 2015-08-22 ; Times: 8
+	Date: 2015-08-23 ; Times: 1
+	Date: 2015-08-24 ; Times: 3
+	Date: 2015-08-25 ; Times: 2
+	Date: 2015-08-26 ; Times: 2
+	Date: 2015-08-27 ; Times: 2
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 4
+	Date: 2015-08-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Notiomystis" ; Times: 1
+	Query: "Ninox superciliaris" ; Times: 1
+	Query: "Starnoenas" ; Times: 1
+	Query: "batrachostomus hodgsoni" ; Times: 2
+	Query: "Gerygone mnhn" ; Times: 2
+	Query: "Aplonis mnhn" ; Times: 1
+	Query: "henrici mnhn" ; Times: 3
+	Query: "euplectes macroura" ; Times: 1
+	Query: "zoothera dauma" ; Times: 1
+	Query: "Nothura minor" ; Times: 1
+	Query: "aviceda leuphotes" ; Times: 2
+	Query: "emberiza bruniceps" ; Times: 1
+	Query: "acrocephalus agricola" ; Times: 3
+	Query: "Ptilinopus mercierii" ; Times: 2
+	Query: "emberiza melanocephala" ; Times: 2
+	Query: "Garrulax lanceolatus" ; Times: 1
+	Query: "pulsatrix" ; Times: 2
+	Query: "copsychus malabaricus" ; Times: 1
+	Query: "lophophorus impejanus" ; Times: 1
+	Query: "germani mnhn" ; Times: 1
+	Query: "turdoides affinis" ; Times: 1
+	Query: "balaeniceps" ; Times: 1
+	Query: ""Melaenornis mariquensis"" ; Times: 1
+	Query: "Aepypodius bruijnii" ; Times: 1
+	Query: "oenanthe deserti" ; Times: 1
+	Query: "Turdoides nipalensis" ; Times: 1
+	Query: "garrulax delesserti" ; Times: 6
+	Query: "garrulax ruficollis" ; Times: 2
+	Query: "parvirostris mnhn" ; Times: 1
+	Query: "haliaeetus leucogaster" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 2
+	Query: "polyborus guadeloupe" ; Times: 1
+	Query: "Pitohui kirhocephalus mnhn" ; Times: 1
+	Query: "poeciloptera" ; Times: 1
+	Query: "mnhn 2986" ; Times: 2
+	Query: "FLORISUGA FUSCa" ; Times: 1
+	Query: "Psittaculirostris salvadorii type:specimen" ; Times: 1
+	Query: "country:"Swaziland" institutioncode:mnhn" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1138 download events in this period)
+Total number of records downloaded: 1293 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 880
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 13
+	Country: India ; Times: 1
+	Country: Jamaica ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Philippines ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 4
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-06 ; Times: 1
+	Date: 2015-08-07 ; Times: 1
+	Date: 2015-08-13 ; Times: 2
+	Date: 2015-08-14 ; Times: 2
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-16 ; Times: 2
+	Date: 2015-08-17 ; Times: 3
+	Date: 2015-08-19 ; Times: 2
+	Date: 2015-08-23 ; Times: 1
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-25 ; Times: 1
+	Date: 2015-08-26 ; Times: 10
+	Date: 2015-08-27 ; Times: 3
+	Date: 2015-08-28 ; Times: 3
+	Date: 2015-08-29 ; Times: 10
+	Date: 2015-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Starnoenas" ; Times: 1
+	Query: "Butastur indicus" ; Times: 1
+	Query: "Polioptila caerulea" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "amazona" ; Times: 1
+	Query: "Athene brama" ; Times: 2
+	Query: "Arremon" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "Piaya cayana" ; Times: 1
+	Query: "year:1862" ; Times: 2
+	Query: "year >= 1755 year <= 1819" ; Times: 3
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 4
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "year >= 1755 year <= 1770" ; Times: 1
+	Query: "Zenaida macroura type:specimen stateprovince:"California"" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "Apteryx australis" ; Times: 1
+	Query: "Accipiter soloensis" ; Times: 1
+	Query: "year >= 1755 year <= 1796" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "Coccyzus minor type:specimen" ; Times: 1
+	Query: "year >= 1755 year <= 1792" ; Times: 1
+	Query: "Struthio camelus" ; Times: 1
+	Query: "Pterodroma neglecta" ; Times: 1
+	Query: "Tragopan type:specimen" ; Times: 1
+	Query: "Ectopistes migratorius type:specimen" ; Times: 1
+	Query: "Apteryx owenii" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "year >= 1755 year <= 1820" ; Times: 2
+	Query: "year >= 1755 year <= 1821" ; Times: 1
+	Query: "year:1832" ; Times: 1
+	Query: "year:1833" ; Times: 1
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: "country:"Swaziland" institutioncode:mnhn" ; Times: 1
+	Query: "year:1858" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 56
+Total number of records retrieved from searches: 236
+Number of download events that retrieved data from the resource: 45
+Total number of records downloaded: 1293
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 56
+Total number of records retrieved from searches: 236
+Number of download events that retrieved data from the resource: 45
+Total number of records downloaded: 1293
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
