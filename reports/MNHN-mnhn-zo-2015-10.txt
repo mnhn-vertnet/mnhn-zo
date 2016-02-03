@@ -1,0 +1,147 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 56
+Number of records retrieved in searches: 320
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 33
+	Country: Germany ; Times: 5
+	Country: Denmark ; Times: 1
+	Country: China ; Times: 1
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-11 ; Times: 2
+	Date: 2015-10-17 ; Times: 2
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-06 ; Times: 6
+	Date: 2015-10-01 ; Times: 3
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-04 ; Times: 4
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-08 ; Times: 2
+	Date: 2015-10-14 ; Times: 4
+	Date: 2015-10-19 ; Times: 4
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-16 ; Times: 4
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-12 ; Times: 6
+	Date: 2015-10-24 ; Times: 2
+	Date: 2015-10-23 ; Times: 4
+	Date: 2015-10-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "monias benschi" ; Times: 1
+	Query: "Garrulax maesi mnhn" ; Times: 1
+	Query: "ficedula nigrorufa" ; Times: 1
+	Query: "Nesillas typica obscura year &gt;= 1931 year &lt;= 1931" ; Times: 1
+	Query: "pellorneum pyrrogenys" ; Times: 1
+	Query: "ara rubrogenys" ; Times: 1
+	Query: "Francolinus pintadeanus" ; Times: 1
+	Query: "crax alector alector" ; Times: 1
+	Query: "criniger chloronotus" ; Times: 1
+	Query: "Nesillas typica year &gt;= 1929 year &lt;= 1929" ; Times: 1
+	Query: "Glaucis hirsutus mappable:1" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 2
+	Query: "pachycephala griseonota" ; Times: 1
+	Query: "emberiza bruniceps" ; Times: 1
+	Query: "Macheiramphus alcinus" ; Times: 1
+	Query: "paradisaea apoda" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 4
+	Query: "Bucorvus" ; Times: 1
+	Query: "Nesillas typica year &gt;= 1931 year &lt;= 1931" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 2
+	Query: "batrachostomus cornutus" ; Times: 1
+	Query: "Eupherusa poliocerca" ; Times: 1
+	Query: "crax fasciolata fasciolata" ; Times: 1
+	Query: "Nyctibius aethereus" ; Times: 1
+	Query: "muscicapa muttui" ; Times: 5
+	Query: "acrocephalus melanopogon" ; Times: 1
+	Query: "Agelastes meleagrides" ; Times: 1
+	Query: "Ortalis guttata guttata" ; Times: 1
+	Query: "Zosterops palpebrosus" ; Times: 1
+	Query: "Leptopoecile type:specimen" ; Times: 1
+	Query: "Garrulax chinensis" ; Times: 1
+	Query: "Geotrygon violacea mappable:1" ; Times: 1
+	Query: "meleagrides" ; Times: 1
+	Query: "Pteruthius aenobarbus" ; Times: 1
+	Query: "muscicapa ruficauda" ; Times: 1
+	Query: "crax fasciolata pinima" ; Times: 1
+	Query: "Odontophorus capueira" ; Times: 3
+	Query: "Nesillas typica mnhn" ; Times: 1
+	Query: "Aglaiocercus kingii mappable:1" ; Times: 1
+	Query: "crax globulosa" ; Times: 2
+	Query: "ptilopachus petrosus" ; Times: 1
+	Query: "aviceda leuphotes" ; Times: 1
+	Query: "Nestor meridionalis" ; Times: 1
+	Query: "Andigena laminirostris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 823 download events in this period)
+Total number of records downloaded: 581
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Chile ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 7
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 3
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-07 ; Times: 6
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-02 ; Times: 3
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-30 ; Times: 2
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Geotrygon montana mappable:1" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Cyornis banyumas" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "Omo" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Glaucis hirsutus mappable:1" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "Eupherusa poliocerca" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Nyctibius aethereus" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Phaethornis yaruqui mappable:1" ; Times: 1
+	Query: "Garrulax chinensis" ; Times: 1
+	Query: "Alcippe morrisonia" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "pitohui kirhocephalus" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "Campephilus rubricollis mappable:1" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+
+
+End of report.
