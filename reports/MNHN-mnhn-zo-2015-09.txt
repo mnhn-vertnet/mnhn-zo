@@ -1,0 +1,139 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 167
+Number of records retrieved in searches: 649
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 154
+	Country: Brazil ; Times: 9
+	Country: Turkey ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-09 ; Times: 14
+	Date: 2015-09-16 ; Times: 4
+	Date: 2015-09-06 ; Times: 8
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-11 ; Times: 4
+	Date: 2015-09-05 ; Times: 5
+	Date: 2015-09-04 ; Times: 61
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-28 ; Times: 2
+	Date: 2015-09-01 ; Times: 17
+	Date: 2015-09-17 ; Times: 4
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-08 ; Times: 20
+	Date: 2015-09-26 ; Times: 4
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 11
+	Date: 2015-09-14 ; Times: 3
+	Date: 2015-09-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "pavo muticus" ; Times: 1
+	Query: "Cyornis rubeculoides" ; Times: 1
+	Query: "Pinguinus impennis type:specimen" ; Times: 2
+	Query: "miliaria calandra" ; Times: 1
+	Query: "ficedula nigrorufa" ; Times: 2
+	Query: "batrachostomus stellatus" ; Times: 1
+	Query: "florisuga fusca" ; Times: 2
+	Query: "dendrocopos medius" ; Times: 1
+	Query: "catreus wallichii" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 8
+	Query: "chaetocercus bombus" ; Times: 1
+	Query: "onhm" ; Times: 3
+	Query: "turdoides earlei" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 1
+	Query: "Cyornis rubeculoides klossi" ; Times: 4
+	Query: "vultur" ; Times: 5
+	Query: "gallus sonneratii" ; Times: 1
+	Query: "dendrocopos leucotos" ; Times: 1
+	Query: "Dendrocopos leucotos" ; Times: 1
+	Query: "Galapagos institutioncode:MNHN" ; Times: 1
+	Query: "muscicapa muttui" ; Times: 91
+	Query: "acrocephalus melanopogon" ; Times: 1
+	Query: "turdoides nipalensis" ; Times: 4
+	Query: "Crax fasciolata pinima" ; Times: 1
+	Query: "turdoides affinis" ; Times: 1
+	Query: "distance(location,geopoint(20.5802369569,-105.349505705))&lt;10000" ; Times: 1
+	Query: "acrocephalus palustris" ; Times: 1
+	Query: "garrulax delesserti" ; Times: 4
+	Query: "crax fasciolata pinima" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 1
+	Query: "Eulipoa" ; Times: 1
+	Query: "emberiza hortulana" ; Times: 1
+	Query: "Cyornis hainanus" ; Times: 12
+	Query: "emberiza bruniceps" ; Times: 2
+	Query: "Crax pinima" ; Times: 3
+	Query: "distance(location,geopoint(20.5802369569,-105.249505705))&lt;10000" ; Times: 1
+	Query: "pseudobulweria" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1045 download events in this period)
+Total number of records downloaded: 970
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 11
+	Country: Colombia ; Times: 2
+	Country: Thailand ; Times: 5
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-19 ; Times: 8
+	Date: 2015-09-10 ; Times: 1
+	Date: 2015-09-06 ; Times: 3
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-02 ; Times: 1
+	Date: 2015-09-01 ; Times: 1
+	Date: 2015-09-17 ; Times: 2
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-29 ; Times: 2
+	Date: 2015-09-22 ; Times: 3
+	Date: 2015-09-20 ; Times: 2
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "Cyornis hainanus" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "chaetocercus bombus" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "turdus fuscater" ; Times: 1
+	Query: "Cyornis rubeculoides klossi" ; Times: 2
+	Query: "Lophura diardi" ; Times: 1
+	Query: "Alcippe poioicephala" ; Times: 3
+	Query: "Psophia" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "aglaiocercus coelestis" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "Leptosomus discolor" ; Times: 1
+	Query: "garrulax ruficollis" ; Times: 2
+	Query: "stahl" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+
+
+End of report.
