@@ -1,0 +1,112 @@
+Report for Institution Code MNHN, Resource ZO
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 262
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Switzerland ; Times: 2
+	Country: Thailand ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-05 ; Times: 4
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-08 ; Times: 6
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-14 ; Times: 3
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-26 ; Times: 3
+	Date: 2016-01-28 ; Times: 3
+	Date: 2016-01-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Aglaiocercus kingii" ; Times: 1
+	Query: "Cinnyris humbloti" ; Times: 1
+	Query: "Gypaetus" ; Times: 2
+	Query: "muscicapa muttui" ; Times: 4
+	Query: "Tetrax tetrax" ; Times: 1
+	Query: "de Joannis" ; Times: 2
+	Query: "podiceps cristatus institutioncode:MNHN" ; Times: 1
+	Query: "cissa thalassina" ; Times: 1
+	Query: "MNHN 1885-480" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "cercomacra brasiliana type:specimen" ; Times: 2
+	Query: "bubo sumatranus" ; Times: 1
+	Query: "Arborophila cambodiana" ; Times: 1
+	Query: "Cissa thalassina" ; Times: 5
+	Query: "Pterocles alchata mappable:1" ; Times: 1
+	Query: "gorsachius" ; Times: 1
+	Query: "lophotibis cristata" ; Times: 1
+	Query: "MNHN 1885 480" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 507 download events in this period)
+Total number of records downloaded: 121 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 116
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 4
+	Date: 2016-01-02 ; Times: 2
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "ramphastos toco" ; Times: 2
+	Query: ""Doryfera ludovicae"" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: ""Haplophaedia aureliae"" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: ""Phaethornis syrmatophorus"" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "phalacrocorax atriceps" ; Times: 1
+	Query: ""Lafresnaya lafresnayi"" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 14
+Total number of records downloaded: 121
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 30
+Total number of records retrieved from searches: 262
+Number of download events that retrieved data from the resource: 14
+Total number of records downloaded: 121
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
