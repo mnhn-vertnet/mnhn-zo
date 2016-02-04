@@ -1,0 +1,94 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 262
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 15
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Switzerland ; Times: 2
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-05 ; Times: 4
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-26 ; Times: 3
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-30 ; Times: 4
+	Date: 2016-01-28 ; Times: 3
+	Date: 2016-01-08 ; Times: 6
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-14 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Cinnyris humbloti" ; Times: 1
+	Query: "Aglaiocercus kingii" ; Times: 1
+	Query: "Gypaetus" ; Times: 2
+	Query: "Pterocles alchata mappable:1" ; Times: 1
+	Query: "Tetrax tetrax" ; Times: 1
+	Query: "de Joannis" ; Times: 2
+	Query: "podiceps cristatus institutioncode:MNHN" ; Times: 1
+	Query: "cissa thalassina" ; Times: 1
+	Query: "MNHN 1885-480" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "cercomacra brasiliana type:specimen" ; Times: 2
+	Query: "bubo sumatranus" ; Times: 1
+	Query: "Arborophila cambodiana" ; Times: 1
+	Query: "Cissa thalassina" ; Times: 5
+	Query: "muscicapa muttui" ; Times: 4
+	Query: "gorsachius" ; Times: 1
+	Query: "lophotibis cristata" ; Times: 1
+	Query: "MNHN 1885 480" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 507 download events in this period)
+Total number of records downloaded: 121
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Brazil ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-01 ; Times: 4
+	Date: 2016-01-02 ; Times: 2
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "ramphastos toco" ; Times: 2
+	Query: "&#34;Doryfera ludovicae&#34;" ; Times: 1
+	Query: "&#34;Lafresnaya lafresnayi&#34;" ; Times: 1
+	Query: "&#34;Haplophaedia aureliae&#34;" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "&#34;Phaethornis syrmatophorus&#34;" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "phalacrocorax atriceps" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+
+
+End of report.
