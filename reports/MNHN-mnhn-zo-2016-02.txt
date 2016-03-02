@@ -1,0 +1,108 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 334
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 51
+	Country: Germany ; Times: 8
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-02 ; Times: 18
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-16 ; Times: 9
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-20 ; Times: 5
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-24 ; Times: 2
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-03 ; Times: 5
+	Date: 2016-02-11 ; Times: 4
+	Date: 2016-02-05 ; Times: 5
+	Date: 2016-02-17 ; Times: 3
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-06 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "ortalis araucuan" ; Times: 1
+	Query: "gyps bengalensis" ; Times: 1
+	Query: "Torgos tracheliotos" ; Times: 2
+	Query: "sarcogyps calvus" ; Times: 1
+	Query: "Phalacrocorax verrucosus" ; Times: 1
+	Query: "geopelia maugei" ; Times: 1
+	Query: "mycteria cinerea" ; Times: 2
+	Query: "Torgos" ; Times: 1
+	Query: "columba bollii" ; Times: 1
+	Query: "muscicapa ruficauda" ; Times: 2
+	Query: "treron phayrei" ; Times: 5
+	Query: "ptilinopus subgularis" ; Times: 1
+	Query: "gbifdatasetid:ba0c03ab-fa61-4a3c-8db7-35c8c3454168" ; Times: 1
+	Query: "aviceda leuphotes" ; Times: 3
+	Query: "neophron institutioncode:MNHN" ; Times: 1
+	Query: "threskiornis melanocephalus" ; Times: 4
+	Query: "Campethera pallida" ; Times: 1
+	Query: "scotopelia peli type:specimen" ; Times: 2
+	Query: "lophotibis cristata" ; Times: 2
+	Query: "columba hodgsonii" ; Times: 1
+	Query: "goudot" ; Times: 1
+	Query: "pterocles personatus" ; Times: 2
+	Query: "muscicapa muttui" ; Times: 1
+	Query: "Ficedula superciliaris" ; Times: 1
+	Query: "Phalacrocorax nigrogularis" ; Times: 1
+	Query: "ptilinopus mercierii" ; Times: 1
+	Query: "Pezoporus occidentalis" ; Times: 1
+	Query: "Megadyptes" ; Times: 1
+	Query: "scotopelia type:specimen" ; Times: 1
+	Query: "rhodonessa caryophyllacea" ; Times: 2
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "Pipreola intermedia" ; Times: 1
+	Query: "anastomus oscitans" ; Times: 2
+	Query: "cyanopica cooki" ; Times: 9
+	Query: "rynchops albicollis" ; Times: 2
+	Query: "Phoeniconaias minor" ; Times: 1
+	Query: "Phoenicoparrus andinus" ; Times: 1
+	Query: "phalacrocorax nigrogularis" ; Times: 1
+	Query: "hapalopsittaca amazonina" ; Times: 1
+	Query: "columba malherbii" ; Times: 1
+	Query: "aepypodius bruijnii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 512 download events in this period)
+Total number of records downloaded: 139
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Geospiza" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "Podiceps major" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+
+
+End of report.
