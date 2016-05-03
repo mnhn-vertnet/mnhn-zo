@@ -1,0 +1,111 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 276
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Unknown ; Times: 14
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 15
+	Country: Germany ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 2
+	Date: 2016-04-08 ; Times: 3
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-29 ; Times: 3
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-27 ; Times: 5
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-06 ; Times: 3
+	Date: 2016-04-05 ; Times: 9
+	Date: 2016-04-04 ; Times: 3
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pteroglossus aracari type:specimen" ; Times: 1
+	Query: "Quan Hoa" ; Times: 1
+	Query: "eulipoa" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 2
+	Query: "pelecanus rufescens" ; Times: 1
+	Query: "lisboa" ; Times: 1
+	Query: "phoenicoparrus" ; Times: 1
+	Query: "distance(location,geopoint(20.589036,-105.197516))&lt;15000" ; Times: 6
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "Rhipidura albicollis albogularis" ; Times: 1
+	Query: "cercomacra parkeri type:specimen" ; Times: 1
+	Query: "turdoides malcolmi" ; Times: 1
+	Query: "turdoides earlei" ; Times: 1
+	Query: "pnoepyga albiventer" ; Times: 1
+	Query: "Chlorestes notata" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "anhinga rufa chantrei" ; Times: 1
+	Query: "Pterocles alchata mappable:1" ; Times: 1
+	Query: "podargus ocellatus" ; Times: 1
+	Query: "Thanh Hoa" ; Times: 1
+	Query: "glaucis hirsutus" ; Times: 1
+	Query: "Rhodonessa caryophyllacea" ; Times: 1
+	Query: "Pteroglossus inscriptus" ; Times: 1
+	Query: "cyornis concretus" ; Times: 1
+	Query: "pyrrhops year &lt;= 1860" ; Times: 1
+	Query: "&#34;05-1900&#34;" ; Times: 2
+	Query: "distance(location,geopoint(20.589036,-105.367516))&lt;15000" ; Times: 6
+	Query: "Rhipidura albogularis" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "aegotheles bennettii" ; Times: 1
+	Query: "ramphocinclus" ; Times: 2
+	Query: "nipponia" ; Times: 1
+	Query: "pteroglossus inscriptus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1312 download events in this period)
+Total number of records downloaded: 166
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: India ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-27 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "Egretta rufescens stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Crax rubra" ; Times: 2
+	Query: "Nandayus" ; Times: 1
+	Query: "Chlidonias hybrida" ; Times: 2
+	Query: "Ara macao" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.
