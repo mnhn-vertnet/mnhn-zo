@@ -1,0 +1,118 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 125
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 20
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-16 ; Times: 5
+	Date: 2016-06-04 ; Times: 10
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-02 ; Times: 1
+	Date: 2016-06-17 ; Times: 2
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-11 ; Times: 6
+	Date: 2016-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anhima cornuta" ; Times: 2
+	Query: "Opisthoprora euryptera" ; Times: 1
+	Query: "Francolinus pintadeanus" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "crax pinima" ; Times: 3
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Nothura minor" ; Times: 1
+	Query: "Ramphocinclus brachyurus" ; Times: 1
+	Query: "Cyornis brunneatus" ; Times: 3
+	Query: "MNHN-1876-377" ; Times: 1
+	Query: "megarhyncha mnhn" ; Times: 1
+	Query: "Tangara palmarum" ; Times: 1
+	Query: "zoonavena grandidieri" ; Times: 6
+	Query: "Cinclocerthia ruficauda" ; Times: 1
+	Query: "hedydipna platura type:specimen" ; Times: 1
+	Query: "peliperdix lathami" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "Rhodonessa" ; Times: 1
+	Query: "neomorphus" ; Times: 1
+	Query: "buteo rufinus cirtensis" ; Times: 1
+	Query: "crax fasciolata pinima" ; Times: 2
+	Query: "Psittacula krameri 1" ; Times: 2
+	Query: "crax globulosa" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1052 download events in this period)
+Total number of records downloaded: 626
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 21
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 6
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 4
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-04 ; Times: 2
+	Date: 2016-06-14 ; Times: 4
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-02 ; Times: 1
+	Date: 2016-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Nothura minor" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 3
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "goura" ; Times: 2
+	Query: "grus americana" ; Times: 3
+	Query: "columba livia" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "niltava grandis" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "ara macao" ; Times: 4
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "Tangara palmarum" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+
+
+End of report.
