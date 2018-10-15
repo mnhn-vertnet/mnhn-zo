@@ -1,0 +1,223 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 334
+Number of records retrieved in searches: 1966
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 46
+	Country: United States ; Times: 38
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 144
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 9
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Switzerland ; Times: 5
+	Country: Japan ; Times: 74
+	Country: Dominican Republic ; Times: 1
+	Country: Canada ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 33
+	Date: 2018-02-08 ; Times: 4
+	Date: 2018-02-02 ; Times: 8
+	Date: 2018-02-01 ; Times: 11
+	Date: 2018-02-07 ; Times: 5
+	Date: 2018-02-06 ; Times: 2
+	Date: 2018-02-05 ; Times: 11
+	Date: 2018-02-04 ; Times: 5
+	Date: 2018-02-21 ; Times: 4
+	Date: 2018-02-20 ; Times: 76
+	Date: 2018-02-23 ; Times: 20
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-24 ; Times: 9
+	Date: 2018-02-27 ; Times: 75
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-28 ; Times: 3
+	Date: 2018-02-14 ; Times: 4
+	Date: 2018-02-16 ; Times: 47
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-12 ; Times: 5
+	Date: 2018-02-18 ; Times: 2
+	Date: 2018-02-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "scientificname:&#34;cathartes sp.&#34;" ; Times: 1
+	Query: "paradoxornis margaritae" ; Times: 2
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "ara tricolor" ; Times: 2
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "Raphus cucullatus" ; Times: 4
+	Query: "Eudocimus ruber mappable:1" ; Times: 4
+	Query: "delichon urbicum" ; Times: 1
+	Query: "Todiramphus chloris mappable:1" ; Times: 3
+	Query: "Alectoris chukar mappable:1" ; Times: 4
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "MNHN-1870-316" ; Times: 1
+	Query: "Ara macao" ; Times: 4
+	Query: "Forpus passerinus mappable:1" ; Times: 3
+	Query: "Platalea ajaja mappable:1" ; Times: 4
+	Query: "Euplectes axillaris mappable:1" ; Times: 4
+	Query: "Platysteira cyanea" ; Times: 1
+	Query: "Psittacula krameri mappable:1" ; Times: 3
+	Query: "Larus fuscus" ; Times: 2
+	Query: "Batis molitor" ; Times: 1
+	Query: "Necrosyrtes monachus mappable:1" ; Times: 4
+	Query: "Pytilia melba mappable:1" ; Times: 4
+	Query: "Dendrocopos major mappable:1" ; Times: 2
+	Query: "columba vinacea institutioncode:MNHN" ; Times: 4
+	Query: "Dendrocopos medius mappable:1" ; Times: 3
+	Query: "Cercomacra brasiliana" ; Times: 14
+	Query: "Pycnonotus jocosus mappable:1" ; Times: 4
+	Query: "Columba subvinacea purpureotincta institutioncode:MNHN" ; Times: 1
+	Query: "ramsden" ; Times: 1
+	Query: "Batis soror" ; Times: 1
+	Query: "Streptopelia orientalis mappable:1" ; Times: 4
+	Query: "Quelea quelea mappable:1" ; Times: 2
+	Query: "gypaetus" ; Times: 1
+	Query: "Acrocephalus arundinaceus" ; Times: 2
+	Query: "Netta rufina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chauna chavaria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Phoeniculus purpureus mappable:1" ; Times: 4
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Tinamus tao" ; Times: 1
+	Query: "Ploceus cucullatus mappable:1" ; Times: 2
+	Query: "Zosterops senegalensis mappable:1" ; Times: 4
+	Query: "purpureotincta institutioncode:MNHN" ; Times: 3
+	Query: "Coracopsis vasa mappable:1" ; Times: 3
+	Query: "Anser fabalis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "columba subvinacea institutioncode:MNHN" ; Times: 4
+	Query: "Zenaida auriculata mappable:1" ; Times: 4
+	Query: "Megabyas flammulatus" ; Times: 1
+	Query: "catalognumber:434" ; Times: 1
+	Query: "Garrulax leucolophus mappable:1" ; Times: 3
+	Query: "Nettapus pulchellus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anhima cornuta basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ardea cinerea" ; Times: 2
+	Query: "Aix galericulata mappable:1" ; Times: 4
+	Query: "nasica" ; Times: 1
+	Query: "Muscicapa dauurica mappable:1" ; Times: 5
+	Query: "Leiothrix lutea mappable:1" ; Times: 4
+	Query: "catalognumber:447" ; Times: 1
+	Query: "Ploceus velatus mappable:1" ; Times: 4
+	Query: "tinamus major chiapas" ; Times: 1
+	Query: "Geopelia striata mappable:1" ; Times: 2
+	Query: "claravis mondetoura" ; Times: 74
+	Query: "Neomorphus geoffroyi" ; Times: 9
+	Query: "Threskiornis aethiopicus mappable:1" ; Times: 3
+	Query: "Bucorvus abyssinicus mappable:1" ; Times: 4
+	Query: "Lophura edwardsi" ; Times: 1
+	Query: "zosterops pallidus" ; Times: 1
+	Query: "Diomedea epomophora basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eutoxeres condamini" ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 1
+	Query: "columba plumbea" ; Times: 1
+	Query: "Streptopelia roseogrisea mappable:1" ; Times: 4
+	Query: "Aythya ferina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lagonosticta senegala mappable:1" ; Times: 4
+	Query: "Tinamus tao tao" ; Times: 1
+	Query: "Oena capensis mappable:1" ; Times: 4
+	Query: "Diomedea epomophora" ; Times: 1
+	Query: "Estrilda melpoda mappable:1" ; Times: 4
+	Query: "Pyrenestes sanguineus mappable:1" ; Times: 4
+	Query: "Taeniopygia guttata mappable:1" ; Times: 3
+	Query: "Columbina talpacoti mappable:1" ; Times: 4
+	Query: "Batis capensis" ; Times: 1
+	Query: "cercomacra brasiliana" ; Times: 5
+	Query: "Amazona aestiva mappable:1" ; Times: 3
+	Query: "Crithagra atrogularis mappable:1" ; Times: 5
+	Query: "Alectoris graeca mappable:1" ; Times: 4
+	Query: "Columba plumbea institutioncode:MNHN" ; Times: 1
+	Query: "Euplectes macroura mappable:1" ; Times: 5
+	Query: "Rhodonessa caryophyllacea basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phoebetria palpebrata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lonchura cucullata mappable:1" ; Times: 3
+	Query: "Batis pririt" ; Times: 1
+	Query: "Oceanites gracilis galapagoensis" ; Times: 1
+	Query: "Estrilda astrild mappable:1" ; Times: 4
+	Query: "lophornis" ; Times: 1
+	Query: "spelaeornis kinneari" ; Times: 1
+	Query: "Plectropterus gambensis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Locustella fluviatilis" ; Times: 2
+	Query: "pomatorhinus melanurus" ; Times: 1
+	Query: "Batis minima" ; Times: 1
+	Query: "Branta ruficollis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Crax globulosa" ; Times: 1
+	Query: "MNHN 8672" ; Times: 1
+	Query: "Columba guinea mappable:1" ; Times: 4
+	Query: "Cereopsis novaehollandiae basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1892 download events in this period)
+Total number of records downloaded: 163
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 19
+	Country: Israel ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 7
+	Country: Japan ; Times: 1
+	Country: Brazil ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-27 ; Times: 5
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-23 ; Times: 12
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-01 ; Times: 3
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-06 ; Times: 4
+	Date: 2018-02-05 ; Times: 3
+	Date: 2018-02-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Batis capensis" ; Times: 1
+	Query: "ramphastos toco" ; Times: 4
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "Tinamus tao" ; Times: 1
+	Query: "Megabyas flammulatus" ; Times: 1
+	Query: "geospiza" ; Times: 1
+	Query: "claravis mondetoura" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 2
+	Query: "Batis pririt" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 5
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "Batis minor" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "Platysteira peltata" ; Times: 1
+	Query: "Larus fuscus" ; Times: 1
+	Query: "Bias musicus" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Crax globulosa" ; Times: 1
+	Query: "Batis molitor" ; Times: 1
+	Query: "Platysteira cyanea" ; Times: 1
+	Query: "Batis minima" ; Times: 1
+	Query: "Batis senegalensis" ; Times: 1
+	Query: "coereba" ; Times: 1
+	Query: "Cercomacra brasiliana" ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 1
+	Query: "Batis soror" ; Times: 1
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
