@@ -1,0 +1,245 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 231
+Number of records retrieved in searches: 1236
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 104
+	Country: Portugal ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 5
+	Country: Mexico ; Times: 71
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 18
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Unknown ; Times: 7
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 12
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-31 ; Times: 3
+	Date: 2018-01-30 ; Times: 8
+	Date: 2018-01-11 ; Times: 1
+	Date: 2018-01-13 ; Times: 2
+	Date: 2018-01-12 ; Times: 11
+	Date: 2018-01-15 ; Times: 41
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-16 ; Times: 42
+	Date: 2018-01-09 ; Times: 33
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-28 ; Times: 3
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-24 ; Times: 6
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-26 ; Times: 19
+	Date: 2018-01-01 ; Times: 2
+	Date: 2018-01-06 ; Times: 1
+	Date: 2018-01-21 ; Times: 4
+	Date: 2018-01-22 ; Times: 9
+	Date: 2018-01-05 ; Times: 2
+	Date: 2018-01-23 ; Times: 29
+	Date: 2018-01-20 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Aythya innotata" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 2
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "subvinacea" ; Times: 1
+	Query: "Amazona oratrix" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "v- institutioncode:MNHN" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 2
+	Query: "Amazilia tzacatl" ; Times: 1
+	Query: "Anhima cornuta vntype:specimen" ; Times: 1
+	Query: "Leptotila plumbeiceps" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 11
+	Query: "Cairina moschata" ; Times: 1
+	Query: "pnoepyga formosana" ; Times: 2
+	Query: "Aramides cajaneus" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Aix galericulata sex:female hassex:1" ; Times: 1
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "Psarocolius montezuma" ; Times: 1
+	Query: "Actitis macularius" ; Times: 1
+	Query: "Tigrisoma lineatum" ; Times: 1
+	Query: "Ramphocaenus melanurus" ; Times: 1
+	Query: "Aspatha gularis" ; Times: 1
+	Query: "porphyrio year &gt; 1990" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "alcippe poioicephala" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "Chloroceryle amazona" ; Times: 1
+	Query: "Zosterops nicobaricus" ; Times: 1
+	Query: "Tinamus major" ; Times: 1
+	Query: "Pteruthius intermedius" ; Times: 1
+	Query: "Eupherusa eximia" ; Times: 1
+	Query: "Bradypterus mandelli" ; Times: 1
+	Query: "Mathews 1964" ; Times: 2
+	Query: "saxicola rubicola" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Heliothryx barroti" ; Times: 3
+	Query: "catalognumber:1290" ; Times: 3
+	Query: "catalognumber:1044" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 1
+	Query: "Leptotila rufaxilla" ; Times: 1
+	Query: "Ardea alba" ; Times: 1
+	Query: "catalognumber:MO-1936-1577 institutioncode:MNHN" ; Times: 1
+	Query: "tetrao urogallus" ; Times: 1
+	Query: "Gubernatrix" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "Piaya cayana" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "eumyias albicaudatus" ; Times: 8
+	Query: "Cossypha natalensis" ; Times: 1
+	Query: "Agelastes meleagrides" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "catalognumber:MO-1968-176 institutioncode:MNHN" ; Times: 1
+	Query: "laglaize" ; Times: 2
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "sylvia minula" ; Times: 6
+	Query: "Phyllastrephus fischeri mappable:1" ; Times: 1
+	Query: "Rhodonessa caryophyllacea" ; Times: 1
+	Query: "castaniceps rufigenis" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "Aix galericulata sex:Female hassex:1" ; Times: 1
+	Query: "dicrurus atripennis" ; Times: 2
+	Query: "Zenaida asiatica" ; Times: 1
+	Query: "Lophostrix cristata" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "dicrurus coracinus" ; Times: 3
+	Query: "Aquila pomarina" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "Phaeochroa cuvierii" ; Times: 1
+	Query: "phylloscopus ibericus" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Cossypha heuglini" ; Times: 1
+	Query: "Columbina talpacoti" ; Times: 1
+	Query: "Pteroglossus torquatus" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "Pygoscelis adeliae" ; Times: 1
+	Query: "Cyornis brunneatus" ; Times: 1
+	Query: "cettia cetti" ; Times: 1
+	Query: "Cossypha caffra" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 1
+	Query: "Amazilia cyanocephala" ; Times: 1
+	Query: "Phyllastrephus fischeri" ; Times: 1
+	Query: "Crex Crex" ; Times: 10
+	Query: "napothera proxima" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "castaniceps castaniceps" ; Times: 1
+	Query: "Anthracothorax prevostii" ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 1
+	Query: "Ictinia plumbea" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "Threnetes ruckeri" ; Times: 1
+	Query: "Momotus lessonii" ; Times: 1
+	Query: "Malia" ; Times: 1
+	Query: "garrulax delesserti" ; Times: 3
+	Query: "dicrurus modestus" ; Times: 7
+	Query: "Pomatorhinus ruficollis" ; Times: 1
+	Query: "Helmitheros vermivorum" ; Times: 1
+	Query: "dicrurus macrocercus" ; Times: 1
+	Query: "Cossypha natalensis mappable:1" ; Times: 1
+	Query: "chamaea phaea" ; Times: 3
+	Query: "Cossypha heuglini mappable:1" ; Times: 1
+	Query: "Amaurospiza concolor" ; Times: 1
+	Query: "mnhn 2003-47" ; Times: 1
+	Query: "ficedula nigrorufa" ; Times: 19
+	Query: "Megarynchus pitangua" ; Times: 1
+	Query: "gallus gallus vntype:specimen year &lt;= 1930" ; Times: 1
+	Query: "Pulsatrix perspicillata" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "Cossypha caffra mappable:1" ; Times: 1
+	Query: "dicrurus ludwigii" ; Times: 2
+	Query: "anhima cornuta" ; Times: 4
+	Query: "Macheiramphus alcinus" ; Times: 4
+	Query: "didunculus" ; Times: 1
+	Query: "Dendrocopos leucotos" ; Times: 14
+	Query: "birds Liberia" ; Times: 1
+	Query: "Hylomanes momotula" ; Times: 1
+	Query: "Nettapus pulchellus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Spizaetus tyrannus" ; Times: 1
+	Query: "Tringa solitaria" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Calidris subruficollis" ; Times: 1
+	Query: "laglaize paraguay" ; Times: 2
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "stateprovince:&#34;Punjab&#34; year &gt;= 1860 year &lt;= 1880" ; Times: 1
+	Query: "Malia grata" ; Times: 1
+	Query: "Paradoxornis ruficeps ruficeps" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "Nyctibius grandis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1398 download events in this period)
+Total number of records downloaded: 448
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Venezuela ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 3
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-12 ; Times: 4
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-17 ; Times: 4
+	Date: 2018-01-23 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "phylloscopus ibericus" ; Times: 1
+	Query: "ficedula nigrorufa" ; Times: 1
+	Query: "Macheiramphus alcinus" ; Times: 1
+	Query: "coereba flaveola" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Cincloramphus cruralis" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "Nucifraga caryocatactes" ; Times: 1
+	Query: "&#34;Falco sparverius&#34; vntype:specimen" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "Nucifraga" ; Times: 1
+	Query: "Laterallus" ; Times: 1
+	Query: "Agelastes meleagrides" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Bradypterus" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Locustella" ; Times: 1
+	Query: "Malia" ; Times: 1
+	Query: "Acrocephalus" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+	Query: "flammulatus" ; Times: 1
+
+
+End of report.
