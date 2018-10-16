@@ -1,0 +1,133 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 412
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 32
+	Country: Canada ; Times: 1
+	Country: Madagascar ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 1
+	Country: United States ; Times: 19
+	Country: Sweden ; Times: 7
+	Country: Belarus ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 19
+	Date: 2018-05-03 ; Times: 4
+	Date: 2018-05-01 ; Times: 18
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-08 ; Times: 5
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-28 ; Times: 7
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-10 ; Times: 6
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-24 ; Times: 2
+	Date: 2018-05-25 ; Times: 3
+	Date: 2018-05-31 ; Times: 2
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anthracothorax viridigula" ; Times: 1
+	Query: "Lophornis pavoninus" ; Times: 1
+	Query: "Discosura langsdorffi" ; Times: 1
+	Query: "alectoris rufa" ; Times: 1
+	Query: "CM 9018" ; Times: 1
+	Query: "guar" ; Times: 1
+	Query: "Polioptila lembeyei" ; Times: 1
+	Query: "burhinus superciliaris" ; Times: 3
+	Query: "Falco cherrug" ; Times: 1
+	Query: "pycnonotus jocosus pattani" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "Lophornis gouldii" ; Times: 1
+	Query: "Neomixis (Fanovana) institutioncode:MNHN" ; Times: 1
+	Query: "claravis mondetoura" ; Times: 1
+	Query: "Anarhynchus frontalis" ; Times: 1
+	Query: "Haliaeetus vociferoides" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 3
+	Query: "biscutata" ; Times: 1
+	Query: "Chlorestes notata" ; Times: 2
+	Query: "MOntifringilla nivalis" ; Times: 1
+	Query: "Psittacula krameri mappable:1" ; Times: 1
+	Query: "Phaethornis hispidus" ; Times: 2
+	Query: "Napothera epilepidota" ; Times: 1
+	Query: "Garrulax monileger" ; Times: 1
+	Query: "Garrulax rufogularis" ; Times: 3
+	Query: "Lophornis chalybeus" ; Times: 1
+	Query: "Garrulax mitratus" ; Times: 1
+	Query: "garrulax delesserti" ; Times: 3
+	Query: "alcippe poioicephala poioicephala" ; Times: 1
+	Query: "columba plumbea" ; Times: 4
+	Query: "Garrulax sannio" ; Times: 2
+	Query: "Gypaetus" ; Times: 1
+	Query: "zo-9386" ; Times: 1
+	Query: "Discosura longicaudus" ; Times: 1
+	Query: "Dyaphorophyia concreta" ; Times: 1
+	Query: "Ciconia nigra" ; Times: 1
+	Query: "1974-172 institutioncode:MNHN" ; Times: 1
+	Query: "alcippe poioicephala" ; Times: 3
+	Query: "ploceus subaureus" ; Times: 1
+	Query: "(Calabar) institutioncode:MNHN" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "pygmeus" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "Falco babylonicus" ; Times: 2
+	Query: "Accipiter brevipes" ; Times: 13
+	Query: "otis tarda" ; Times: 1
+	Query: "Neomixis institutioncode:MNHN" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1178 download events in this period)
+Total number of records downloaded: 147
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-07 ; Times: 2
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-02 ; Times: 4
+	Date: 2018-05-01 ; Times: 3
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "palliata" ; Times: 2
+	Query: "garrulax delesserti" ; Times: 1
+	Query: "Psittirostra psittacea" ; Times: 1
+	Query: "ara ararauna" ; Times: 2
+	Query: "alcippe poioicephala" ; Times: 1
+	Query: "Pazos" ; Times: 1
+	Query: "Dyaphorophyia concreta" ; Times: 1
+	Query: "puffinus creatopus" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "Polioptila lembeyei" ; Times: 1
+	Query: "Chlorestes notata" ; Times: 1
+	Query: "Columbina talpacoti" ; Times: 1
+	Query: "Poephila acuticauda" ; Times: 1
+
+
+End of report.
