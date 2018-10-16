@@ -1,0 +1,178 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 252
+Number of records retrieved in searches: 841
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 46
+	Country: United States ; Times: 39
+	Country: Australia ; Times: 3
+	Country: Italy ; Times: 3
+	Country: Singapore ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 98
+	Country: Germany ; Times: 8
+	Country: Martinique ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Japan ; Times: 21
+	Country: Argentina ; Times: 20
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 4
+	Date: 2018-04-03 ; Times: 6
+	Date: 2018-04-11 ; Times: 14
+	Date: 2018-04-05 ; Times: 5
+	Date: 2018-04-04 ; Times: 4
+	Date: 2018-04-07 ; Times: 32
+	Date: 2018-04-06 ; Times: 62
+	Date: 2018-04-18 ; Times: 17
+	Date: 2018-04-15 ; Times: 10
+	Date: 2018-04-16 ; Times: 4
+	Date: 2018-04-28 ; Times: 6
+	Date: 2018-04-17 ; Times: 2
+	Date: 2018-04-19 ; Times: 8
+	Date: 2018-04-22 ; Times: 8
+	Date: 2018-04-23 ; Times: 3
+	Date: 2018-04-30 ; Times: 10
+	Date: 2018-04-21 ; Times: 2
+	Date: 2018-04-20 ; Times: 19
+	Date: 2018-04-26 ; Times: 24
+	Date: 2018-04-25 ; Times: 9
+	Date: 2018-04-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "megarynchus deserticola" ; Times: 1
+	Query: "Neomixis viridis vntype:specimen institutioncode:MNHN" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "columba plumbea" ; Times: 1
+	Query: "amazona festiva" ; Times: 2
+	Query: "Chloephaga melanoptera basisofrecord:PreservedSpecimen hastissue:0" ; Times: 1
+	Query: "Stiphrornis" ; Times: 2
+	Query: "Pterocnemia" ; Times: 2
+	Query: "Neomixis vntype:specimen institutioncode:MNHN" ; Times: 1
+	Query: "Buteo leucorrhous" ; Times: 2
+	Query: "sterna hirundinacea" ; Times: 5
+	Query: "Raphus cucullatus" ; Times: 117
+	Query: "epilepidota" ; Times: 1
+	Query: "Guam (Mus OR Rattus OR Suncus)" ; Times: 4
+	Query: "garrulax cachinnans" ; Times: 1
+	Query: "Pogoniulus chrysoconus" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 3
+	Query: "coeligena prunellei" ; Times: 2
+	Query: "stiphrornis" ; Times: 6
+	Query: "Falco cherrug" ; Times: 1
+	Query: "MNHN stiphrornis" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 3
+	Query: "columba plumbea pallescens" ; Times: 1
+	Query: "cyanoptila" ; Times: 2
+	Query: "calonectris borealis" ; Times: 1
+	Query: "MNHN-1870-316" ; Times: 1
+	Query: "aulacorhynchus guyana" ; Times: 2
+	Query: "columbina talpacoti venezuela" ; Times: 2
+	Query: "Lophura edwardsi" ; Times: 1
+	Query: "vultur gryphus" ; Times: 17
+	Query: "Tinian (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "thibault seychelles" ; Times: 3
+	Query: "Phaethornis hispidus" ; Times: 2
+	Query: "Picathartes oreas" ; Times: 1
+	Query: "gubernatrix cristata" ; Times: 1
+	Query: "Ramphocinclus" ; Times: 1
+	Query: "Neomixis tenella vntype:specimen institutioncode:MNHN" ; Times: 1
+	Query: "columba plumbea hastypestatus:1" ; Times: 2
+	Query: "MNHN ZO MO-1894-981" ; Times: 1
+	Query: "Saipan (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "V. fulva" ; Times: 1
+	Query: "phoenicoparrus andinus" ; Times: 4
+	Query: "phayrei" ; Times: 1
+	Query: "cyanoptila cyanomelana" ; Times: 3
+	Query: "dussumieri seychelles" ; Times: 1
+	Query: "Rota (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Rhodonessa caryophyllacea basisofrecord:PreservedSpecimen hastissue:0" ; Times: 1
+	Query: "ramphocinclus" ; Times: 1
+	Query: "Corvus cornix" ; Times: 1
+	Query: "napothera epilepidota" ; Times: 1
+	Query: "Maug (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Accipiter brevipes" ; Times: 27
+	Query: "MNHN 1998-786" ; Times: 2
+	Query: "Garrulax cachinnans" ; Times: 5
+	Query: "Ortyxelos meiffrenii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1359 download events in this period)
+Total number of records downloaded: 383
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 9
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-17 ; Times: 3
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-30 ; Times: 6
+	Date: 2018-04-04 ; Times: 2
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-06 ; Times: 3
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-19 ; Times: 7
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-05 ; Times: 4
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-26 ; Times: 4
+	Date: 2018-04-25 ; Times: 3
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Tinian (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "Raphus cucullatus" ; Times: 1
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "Guam (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "Pterocnemia" ; Times: 2
+	Query: "Glaucis hirsutus" ; Times: 4
+	Query: "Pipile cumanensis" ; Times: 1
+	Query: "Zonotrichia leucophrys gambelii" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Phaethornis hispidus" ; Times: 3
+	Query: "revillagigedo" ; Times: 1
+	Query: "Ramphocinclus" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "thibault seychelles" ; Times: 1
+	Query: "Saipan (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Geositta" ; Times: 1
+	Query: "columbina talpacoti venezuela" ; Times: 1
+	Query: "Rota (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 5
+	Query: "Coereba flaveola" ; Times: 2
+	Query: "Maug (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Accipiter brevipes" ; Times: 3
+	Query: "Garrulax cachinnans" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+
+
+End of report.
