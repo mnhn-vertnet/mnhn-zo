@@ -1,0 +1,119 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 78
+Number of records retrieved in searches: 815
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 12
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Iran ; Times: 9
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 6
+	Country: Germany ; Times: 17
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 5
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-12 ; Times: 2
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-21 ; Times: 2
+	Date: 2018-09-17 ; Times: 4
+	Date: 2018-09-05 ; Times: 12
+	Date: 2018-09-15 ; Times: 4
+	Date: 2018-09-08 ; Times: 7
+	Date: 2018-09-09 ; Times: 1
+	Date: 2018-09-28 ; Times: 8
+	Date: 2018-09-18 ; Times: 4
+	Date: 2018-09-20 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "megarynchus deserticola" ; Times: 1
+	Query: "periparus ater -skin" ; Times: 1
+	Query: "Nativitatis" ; Times: 1
+	Query: "leptodon cayenensis" ; Times: 1
+	Query: "Alphonse robert" ; Times: 1
+	Query: "westermanni" ; Times: 1
+	Query: "institutioncode:mnhn Coracopsis" ; Times: 3
+	Query: "psophia crepitans" ; Times: 1
+	Query: "institutioncode:mnhn Psittacidae" ; Times: 1
+	Query: "amazona dufresniana" ; Times: 4
+	Query: "melocichla" ; Times: 1
+	Query: "turacoena manadensis" ; Times: 1
+	Query: "ninox superciliaris" ; Times: 1
+	Query: "macropygia modiglianii" ; Times: 1
+	Query: "mnhn 1862-1474" ; Times: 1
+	Query: "Constanta" ; Times: 1
+	Query: "alphonse robert" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 18
+	Query: "Accipiter bicolor" ; Times: 2
+	Query: "MNHN 6194" ; Times: 1
+	Query: "Mus nativitatis" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 9
+	Query: "megabyas" ; Times: 1
+	Query: "institutioncode:mnhn cambodge pfeffer" ; Times: 1
+	Query: "trait" ; Times: 1
+	Query: "poecile palustris" ; Times: 2
+	Query: "institutioncode:mnhn Angkor" ; Times: 1
+	Query: "MNHN-ZO-MO-1876-530" ; Times: 1
+	Query: "institutioncode:mnhn Poicephalus" ; Times: 1
+	Query: "falco rupicolus" ; Times: 1
+	Query: "Strigops habroptila" ; Times: 1
+	Query: "alphonse robert country:&#34;bresil&#34;" ; Times: 1
+	Query: "kasa" ; Times: 1
+	Query: "Geositta poeciloptera vntype:specimen" ; Times: 1
+	Query: "institutioncode:mnhn Psittacula" ; Times: 4
+	Query: "macropygia emiliana" ; Times: 2
+	Query: "aenobarbus" ; Times: 1
+	Query: "Accipiter chilensis" ; Times: 1
+	Query: "MNHN-ZO-MO-1874-444" ; Times: 1
+	Query: "MNHN-ZO-MO-1862-1474" ; Times: 1
+	Query: "macronous kinneari" ; Times: 1
+	Query: "institutioncode:mnhn Coracopsis benson" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 846 download events in this period)
+Total number of records downloaded: 97
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Iran ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+
+
+End of report.
