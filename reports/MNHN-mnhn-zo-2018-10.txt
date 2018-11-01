@@ -1,0 +1,154 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 133
+Number of records retrieved in searches: 556
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 26
+	Country: Israel ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Serbia ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 8
+	Country: Spain ; Times: 3
+	Country: Peru ; Times: 25
+	Country: Ireland ; Times: 11
+	Country: Argentina ; Times: 1
+	Country: Nicaragua ; Times: 1
+	Country: Ecuador ; Times: 43
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 3
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-30 ; Times: 13
+	Date: 2018-10-02 ; Times: 4
+	Date: 2018-10-03 ; Times: 3
+	Date: 2018-10-22 ; Times: 3
+	Date: 2018-10-23 ; Times: 3
+	Date: 2018-10-20 ; Times: 3
+	Date: 2018-10-26 ; Times: 7
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-08 ; Times: 2
+	Date: 2018-10-09 ; Times: 7
+	Date: 2018-10-19 ; Times: 38
+	Date: 2018-10-18 ; Times: 5
+	Date: 2018-10-13 ; Times: 14
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-11 ; Times: 5
+	Date: 2018-10-10 ; Times: 5
+	Date: 2018-10-17 ; Times: 4
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "tickelli" ; Times: 1
+	Query: "Aerodramus francicus" ; Times: 1
+	Query: "miliaria" ; Times: 1
+	Query: "ferret" ; Times: 1
+	Query: "Pnoepyga albiventer" ; Times: 1
+	Query: "Haplophaedia lugens" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "Streptopelia tropica" ; Times: 1
+	Query: "Baume-les-Messieurs" ; Times: 1
+	Query: "myrmia micrura" ; Times: 17
+	Query: "Chalybura" ; Times: 2
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "Melanopareia elegans" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "Malacocincla" ; Times: 1
+	Query: "trichastoma rostratum" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "Tinamus tao" ; Times: 14
+	Query: "Pipile cumanensis" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 4
+	Query: "Crypturellus cinereus" ; Times: 6
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "MNHN-1870-316" ; Times: 1
+	Query: "Nesillas typica" ; Times: 1
+	Query: "ploceus capensis" ; Times: 3
+	Query: "leistes militaris" ; Times: 1
+	Query: "macrocephalon maleo" ; Times: 1
+	Query: "Apus pallidus" ; Times: 1
+	Query: "gypaetus barbatus" ; Times: 1
+	Query: "Oriolus traillii traillii" ; Times: 1
+	Query: "Pellorneum tickelli" ; Times: 9
+	Query: "Falco cherrug" ; Times: 1
+	Query: "brotogeris tirica vntype:specimen" ; Times: 2
+	Query: "Streptopelia somalica" ; Times: 1
+	Query: "Saint Clair County MO" ; Times: 1
+	Query: "Rhodonessa" ; Times: 1
+	Query: "Alcippe poioicephala alearis" ; Times: 1
+	Query: "psophia obscura" ; Times: 1
+	Query: "oriolus traillii" ; Times: 1
+	Query: "Tachymarptis melba" ; Times: 1
+	Query: "Empidornis semipartitus" ; Times: 1
+	Query: "bombus" ; Times: 2
+	Query: "Pezoporus" ; Times: 2
+	Query: "Leptotila pallida" ; Times: 3
+	Query: "MNHN-zo-1870-316" ; Times: 1
+	Query: "Tinamus major" ; Times: 3
+	Query: "aegypius monachus" ; Times: 2
+	Query: "leucomelaena" ; Times: 1
+	Query: "MYRMIA MICRURA" ; Times: 23
+	Query: "collocalia neglecta" ; Times: 1
+	Query: "Nesillas typica obscura" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "Crax pinima" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1300 download events in this period)
+Total number of records downloaded: 105
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 3
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-23 ; Times: 3
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 3
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Stachyris nigriceps" ; Times: 1
+	Query: "glaucis hirsutus" ; Times: 1
+	Query: "Cinnyris jugularis" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Pezoporus" ; Times: 1
+	Query: "leucomelaena" ; Times: 1
+	Query: "amazona autumnalis" ; Times: 1
+	Query: "Spinus tristis" ; Times: 1
+	Query: "Sylvia leucomelaena" ; Times: 1
+	Query: "myrmia micrura" ; Times: 1
+	Query: "aurea" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "Crax pinima" ; Times: 1
+
+
+End of report.
