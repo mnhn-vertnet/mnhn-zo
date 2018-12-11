@@ -1,0 +1,163 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 145
+Number of records retrieved in searches: 644
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 40
+	Country: Italy ; Times: 8
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 20
+	Country: Finland ; Times: 2
+	Country: United Kingdom ; Times: 7
+	Country: Germany ; Times: 4
+	Country: Peru ; Times: 58
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 3
+	Date: 2018-11-19 ; Times: 2
+	Date: 2018-11-04 ; Times: 3
+	Date: 2018-11-23 ; Times: 3
+	Date: 2018-11-09 ; Times: 65
+	Date: 2018-11-08 ; Times: 7
+	Date: 2018-11-07 ; Times: 8
+	Date: 2018-11-06 ; Times: 5
+	Date: 2018-11-13 ; Times: 6
+	Date: 2018-11-14 ; Times: 2
+	Date: 2018-11-02 ; Times: 2
+	Date: 2018-11-15 ; Times: 3
+	Date: 2018-11-25 ; Times: 8
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-26 ; Times: 3
+	Date: 2018-11-20 ; Times: 4
+	Date: 2018-11-30 ; Times: 7
+	Date: 2018-11-22 ; Times: 1
+	Date: 2018-11-11 ; Times: 1
+	Date: 2018-11-29 ; Times: 5
+	Date: 2018-11-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "tachymarptis melba" ; Times: 5
+	Query: "Collocalia neglecta" ; Times: 2
+	Query: "MNHN ZO MO-1971-818" ; Times: 2
+	Query: "Geronticus eremita" ; Times: 5
+	Query: "ficedula nigrorufa" ; Times: 1
+	Query: "Accipiter bicolor chilensis" ; Times: 2
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Garrulax palliatus" ; Times: 1
+	Query: "Saxicola torquatus" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "goura scheepmakeri" ; Times: 3
+	Query: "Tinamus tao" ; Times: 3
+	Query: "garrulax cachinnans" ; Times: 2
+	Query: "nicobariensis" ; Times: 1
+	Query: "Megabyas flammulatus" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "gbifdatasetid:ba0c03ab-fa61-4a3c-8db7-35c8c3454168" ; Times: 2
+	Query: "catalognumber:2592" ; Times: 1
+	Query: "schistes albogularis" ; Times: 1
+	Query: "Ploceus vitellinus" ; Times: 1
+	Query: "Milvus milvus" ; Times: 1
+	Query: "Crypturellus cinereus" ; Times: 1
+	Query: "Androdon aequatorialis" ; Times: 5
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "Treron curvirostra" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 1
+	Query: "Dendrocopos leucotos" ; Times: 4
+	Query: "strigops" ; Times: 1
+	Query: "Aulacorhynchus prasinus" ; Times: 1
+	Query: "todus subulatus" ; Times: 1
+	Query: "Macropygia emiliana" ; Times: 1
+	Query: "eupetomena macroura" ; Times: 54
+	Query: "Accipiter bicolor" ; Times: 2
+	Query: "Numenius tenuirostris" ; Times: 2
+	Query: "eudyptes moseleyi" ; Times: 1
+	Query: "Otis tarda dybowskii" ; Times: 1
+	Query: "Psittacula afghanistan" ; Times: 2
+	Query: "accipiter bicolor" ; Times: 2
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "nola" ; Times: 1
+	Query: "Dendrocopos leucotos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "MNHN ZO AC-1945-187" ; Times: 1
+	Query: "leucotos" ; Times: 1
+	Query: "garrulax tonkinensis" ; Times: 1
+	Query: "eutoxeres condamini" ; Times: 2
+	Query: "Anodorhynchus leari" ; Times: 1
+	Query: "Columba vitiensis" ; Times: 2
+	Query: "Lophophorus mnhn" ; Times: 1
+	Query: "Todus subulatus" ; Times: 1
+	Query: "puffinus auricularis" ; Times: 6
+	Query: "Raphus cucullatus" ; Times: 1
+	Query: "pomatorhinus horsfieldii" ; Times: 1
+	Query: "paradoxornis magnirostris" ; Times: 2
+	Query: "alopochen" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1719 download events in this period)
+Total number of records downloaded: 823
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 10
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 6
+	Country: Peru ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-04 ; Times: 2
+	Date: 2018-11-09 ; Times: 2
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 5
+	Date: 2018-11-13 ; Times: 3
+	Date: 2018-11-14 ; Times: 2
+	Date: 2018-11-01 ; Times: 2
+	Date: 2018-11-25 ; Times: 5
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-27 ; Times: 2
+	Date: 2018-11-30 ; Times: 1
+	Date: 2018-11-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "junco hyemalis vntype:specimen" ; Times: 1
+	Query: "Batis minor" ; Times: 1
+	Query: "ficedula nigrorufa" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "Garrulax palliatus" ; Times: 1
+	Query: "Fringilla coelebs" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "Turdus merula" ; Times: 1
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "Androdon aequatorialis" ; Times: 1
+	Query: "fulmarus glacialis" ; Times: 1
+	Query: "Treron curvirostra" ; Times: 1
+	Query: "eupetomena macroura" ; Times: 2
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Batis" ; Times: 1
+	Query: "Bias musicus" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Otis tarda dybowskii" ; Times: 1
+	Query: "Carduelis chloris" ; Times: 1
+	Query: "Buteo buteo" ; Times: 1
+	Query: "Dendrocopos leucotos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "Anodorhynchus leari" ; Times: 1
+	Query: "Lophorina superba" ; Times: 1
+	Query: "Zonotrichia leucophrys" ; Times: 1
+	Query: "pomatorhinus horsfieldii" ; Times: 1
+
+
+End of report.
