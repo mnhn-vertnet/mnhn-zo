@@ -1,0 +1,288 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 230
+Number of records retrieved in searches: 829
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 25
+	Country: Italy ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Greece ; Times: 1
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 7
+	Country: Germany ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Peru ; Times: 173
+	Country: Unknown ; Times: 1
+	Country: Brazil ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-19 ; Times: 3
+	Date: 2019-01-14 ; Times: 12
+	Date: 2019-01-15 ; Times: 12
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-17 ; Times: 4
+	Date: 2019-01-10 ; Times: 15
+	Date: 2019-01-11 ; Times: 33
+	Date: 2019-01-12 ; Times: 6
+	Date: 2019-01-13 ; Times: 27
+	Date: 2019-01-02 ; Times: 3
+	Date: 2019-01-29 ; Times: 5
+	Date: 2019-01-28 ; Times: 3
+	Date: 2019-01-07 ; Times: 16
+	Date: 2019-01-06 ; Times: 5
+	Date: 2019-01-05 ; Times: 4
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-09 ; Times: 40
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-24 ; Times: 10
+	Date: 2019-01-08 ; Times: 23
+	Date: 2019-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Urosticte benjamini" ; Times: 1
+	Query: "Ramphastos culminatus" ; Times: 1
+	Query: "Trogon viridis" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Alphonse robert" ; Times: 2
+	Query: "Didunculus" ; Times: 2
+	Query: "Phoenicopterus chilensis" ; Times: 1
+	Query: "Lesbia gouldii" ; Times: 1
+	Query: "Rhynchopsitta pachyrhynca" ; Times: 1
+	Query: "Theristicus melanopis" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "Pteroglossus pluricinctus" ; Times: 1
+	Query: "Phaethornis syrmatophorus" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Androdon aequatorialis" ; Times: 2
+	Query: "melanopareia" ; Times: 2
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "Aramides cajaneus" ; Times: 1
+	Query: "Aulacorhynchus atrogularis" ; Times: 1
+	Query: "Amazilia fimbriata" ; Times: 1
+	Query: "Selenidera reinwardtii" ; Times: 1
+	Query: "Aglaiocercus kingii" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "Coeligena iris" ; Times: 1
+	Query: "Phaethornis hispidus" ; Times: 1
+	Query: "Amazona amazonica" ; Times: 1
+	Query: "Podiceps major" ; Times: 1
+	Query: "Aramides cajaneus mappable:1" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Tigrisoma lineatum" ; Times: 1
+	Query: "rhynochetos" ; Times: 1
+	Query: "cyanoptila" ; Times: 2
+	Query: "cONUROPSIS" ; Times: 1
+	Query: "Rufirallus viridis" ; Times: 1
+	Query: "Amazona festiva" ; Times: 1
+	Query: "Juliamyia julie" ; Times: 1
+	Query: "malacocincla abbotti" ; Times: 1
+	Query: "Eulipoa" ; Times: 1
+	Query: "Tinamus major" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Hapaloptila castanea" ; Times: 1
+	Query: "Bolborhynchus lineola" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "Leucopternis melanops" ; Times: 1
+	Query: "Melanerpes candidus" ; Times: 1
+	Query: "Geranoaetus albicaudatus" ; Times: 1
+	Query: "Claravis mondetoura" ; Times: 1
+	Query: "Geotrygon montana mappable:1" ; Times: 1
+	Query: "Chaetocercus bombus" ; Times: 1
+	Query: "garrulax tonkinensis" ; Times: 1
+	Query: "Cercomacra cinerascens" ; Times: 1
+	Query: "Deroptyus accipitrinus" ; Times: 1
+	Query: "Uropsalis lyra" ; Times: 1
+	Query: "Geotrygon saphirina" ; Times: 1
+	Query: "Leptotila pallida" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Tinamus tao" ; Times: 2
+	Query: "Crypturellus tataupa" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "Melanopareia elegans" ; Times: 1
+	Query: "Leptotila rufaxilla" ; Times: 1
+	Query: "Aulacorhynchus derbianus" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 1
+	Query: "Pipile cumanensis" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Eutoxeres" ; Times: 1
+	Query: "Nothocrax urumutum" ; Times: 1
+	Query: "Spelaeornis chocolatinus" ; Times: 1
+	Query: "Laterallus melanophaius" ; Times: 1
+	Query: "eumyias albicaudatus" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 2
+	Query: "Heliodoxa schreibersii" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "Pteroglossus azara" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "Chloephaga melanoptera" ; Times: 1
+	Query: "Aulacorhynchus cyanolaemus" ; Times: 1
+	Query: "Discosura popelairii" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "Timor Chalcophaps" ; Times: 1
+	Query: "chloephaga hybrida" ; Times: 3
+	Query: "Pteroglossus erythropygius" ; Times: 1
+	Query: "Gyps fulvus" ; Times: 1
+	Query: "Lophostrix cristata" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "Chalcophaps Timor Island" ; Times: 1
+	Query: "Phoenicoparrus andinus" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "Crypturellus cinereus" ; Times: 1
+	Query: "Arundinicola leucocephala mappable:1" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "Psophia crepitans" ; Times: 1
+	Query: "Burhinus superciliaris" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 1
+	Query: "cyanomitra tanganjicae" ; Times: 1
+	Query: "Selenidera langsdorffii" ; Times: 1
+	Query: "aplonis minor minor" ; Times: 1
+	Query: "Stiphrornis" ; Times: 1
+	Query: "Campylopterus villaviscensio" ; Times: 1
+	Query: "Discosura langsdorffi" ; Times: 1
+	Query: "Opisthoprora euryptera" ; Times: 1
+	Query: "Mesembrinibis cayennensis" ; Times: 1
+	Query: "Ortalis guttata" ; Times: 1
+	Query: "catalognumber:79 institutioncode:MNHN" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Columbina talpacoti" ; Times: 1
+	Query: "Eubucco steerii" ; Times: 1
+	Query: "cyanomitra olivacea" ; Times: 1
+	Query: "Chalcostigma stanleyi" ; Times: 1
+	Query: "Spatula discors" ; Times: 1
+	Query: "Piculus flavigula" ; Times: 1
+	Query: "Threnetes leucurus" ; Times: 1
+	Query: "Turdoides affinis" ; Times: 5
+	Query: "Klais guimeti" ; Times: 1
+	Query: "Phlogophilus hemileucurus" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 1
+	Query: "Loddigesia mirabilis" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "Eubucco versicolor" ; Times: 1
+	Query: "Eutoxeres condamini" ; Times: 1
+	Query: "Pelagodroma marina" ; Times: 1
+	Query: "Piculus chrysochloros" ; Times: 1
+	Query: "Anthracothorax prevostii" ; Times: 1
+	Query: "Crax globulosa" ; Times: 1
+	Query: "Campephilus rubricollis" ; Times: 1
+	Query: "loddigesia mirabilis" ; Times: 12
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "owenii" ; Times: 2
+	Query: "Pteroglossus castanotis" ; Times: 1
+	Query: "Psittacula sri lanka" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "Daptrius ater" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 1
+	Query: "Pionus chalcopterus" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Myrmia micrura" ; Times: 1
+	Query: "Chalcostigma herrani" ; Times: 1
+	Query: "Nonnula rubecula" ; Times: 1
+	Query: "Baryphthengus martii" ; Times: 1
+	Query: "Metallura tyrianthina" ; Times: 1
+	Query: "Pteroglossus humboldti" ; Times: 1
+	Query: "Taphrospilus hypostictus" ; Times: 1
+	Query: "Ibycter americanus" ; Times: 1
+	Query: "Brotogeris versicolurus" ; Times: 1
+	Query: "Eriocnemis vestita" ; Times: 1
+	Query: "Nyctibius aethereus" ; Times: 1
+	Query: "Pulsatrix perspicillata" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "Montifringilla nivalis" ; Times: 2
+	Query: "Neomorphus geoffroyi" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 1
+	Query: "Chalybura urochrysia" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 1
+	Query: "Ramphomicron microrhynchum" ; Times: 1
+	Query: "Aglaeactis cupripennis" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 2
+	Query: "Megaceryle torquata mappable:1" ; Times: 1
+	Query: "Ardea cocoi" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "Lophornis stictolophus" ; Times: 1
+	Query: "Zenaida auriculata" ; Times: 1
+	Query: "Philydor rufum" ; Times: 1
+	Query: "Spizaetus tyrannus" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "Doryfera johannae" ; Times: 2
+	Query: "Aulacorhynchus coeruleicinctis" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "Oceanites gracilis" ; Times: 1
+	Query: "Fregetta tropica" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Ramphastos toco" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "Steatornis caripensis" ; Times: 1
+	Query: "scientificname:Spheniscus mendiculus " ; Times: 3
+	Query: "Eriocnemis aline" ; Times: 1
+	Query: "Circus cinereus" ; Times: 1
+	Query: "Neomorphus pucheranii" ; Times: 1
+	Query: "apteryx owenii" ; Times: 2
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Psittacara maugei" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 3
+	Query: "Chaetocercus mulsant" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "Nyctibius grandis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 962 download events in this period)
+Total number of records downloaded: 279
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-25 ; Times: 3
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Montifringilla nivalis" ; Times: 1
+	Query: "cONUROPSIS" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Sturnella militaris vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "yurimaguas" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 2
+
+
+End of report.
