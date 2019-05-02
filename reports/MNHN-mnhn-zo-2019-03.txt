@@ -1,0 +1,173 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 139
+Number of records retrieved in searches: 372
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 63
+	Country: Italy ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 4
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 40
+	Country: Germany ; Times: 3
+	Country: Denmark ; Times: 7
+	Country: Switzerland ; Times: 3
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-02 ; Times: 1
+	Date: 2019-03-28 ; Times: 10
+	Date: 2019-03-27 ; Times: 21
+	Date: 2019-03-26 ; Times: 11
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-09 ; Times: 2
+	Date: 2019-03-08 ; Times: 2
+	Date: 2019-03-21 ; Times: 3
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-05 ; Times: 3
+	Date: 2019-03-04 ; Times: 3
+	Date: 2019-03-07 ; Times: 5
+	Date: 2019-03-01 ; Times: 4
+	Date: 2019-03-29 ; Times: 13
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-16 ; Times: 3
+	Date: 2019-03-17 ; Times: 10
+	Date: 2019-03-14 ; Times: 6
+	Date: 2019-03-15 ; Times: 13
+	Date: 2019-03-12 ; Times: 13
+	Date: 2019-03-13 ; Times: 4
+	Date: 2019-03-11 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Zosterops citrinella" ; Times: 14
+	Query: "dendrocopos leucotos" ; Times: 1
+	Query: "Didunculus strigirostris" ; Times: 1
+	Query: "CM birds 3119" ; Times: 1
+	Query: "Ramphastos culminatus" ; Times: 2
+	Query: "Geotrygon montana mappable:1" ; Times: 1
+	Query: "Aethopyga mystacalis" ; Times: 2
+	Query: "cissa thalassina" ; Times: 3
+	Query: "Lophornis pavoninus" ; Times: 5
+	Query: "Oxylabes madagascariensis" ; Times: 1
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "CM 6855" ; Times: 1
+	Query: "Timalia" ; Times: 4
+	Query: "Aethopyga eximia" ; Times: 1
+	Query: "Ardenna bulleri" ; Times: 1
+	Query: "chalcophaps stephani" ; Times: 2
+	Query: "Columba nigrirostris vntype:specimen country:&#34;Panama&#34;" ; Times: 5
+	Query: "Tinamus tao" ; Times: 2
+	Query: "Angkor" ; Times: 1
+	Query: "nyctibius grandis" ; Times: 2
+	Query: "CM 3119" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 2
+	Query: "1884-2153" ; Times: 1
+	Query: "Aethopyga shelleyi" ; Times: 1
+	Query: "Turdoides affinis" ; Times: 2
+	Query: "urumutum" ; Times: 1
+	Query: "Halcyon senegalensis year &gt; 1990 NOT clo" ; Times: 1
+	Query: "Leptocoma aspasia" ; Times: 2
+	Query: "Phlogophilus hemileucurus" ; Times: 2
+	Query: "Chaetocercus bombus" ; Times: 4
+	Query: "Calandra" ; Times: 1
+	Query: "Chalcophaps Timor" ; Times: 3
+	Query: "Columba plumbea" ; Times: 1
+	Query: "Cyornis concretus" ; Times: 1
+	Query: "Loddigesia mirabilis" ; Times: 2
+	Query: "Cacatua galerita galerita" ; Times: 2
+	Query: "cossypha albicapillus" ; Times: 1
+	Query: "Cochlearius cochlearius year &gt; 1990 NOT clo" ; Times: 1
+	Query: "Aquila chrysaetos year &gt; 1990 NOT clo" ; Times: 1
+	Query: "locality:lamarao" ; Times: 1
+	Query: "Loriculus pusillus" ; Times: 2
+	Query: "Cossypha albicapilla" ; Times: 3
+	Query: "melanopareia" ; Times: 2
+	Query: "aquila clanga" ; Times: 2
+	Query: "rhinoplax vigil" ; Times: 1
+	Query: "Grallaria mnhn" ; Times: 1
+	Query: "dendrocopos leucotos lilfordi" ; Times: 1
+	Query: "clamator jacobinus" ; Times: 1
+	Query: "Crax globulosa" ; Times: 2
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "Alcippe rufogularis" ; Times: 1
+	Query: "monias" ; Times: 1
+	Query: "Procellaria aequinoctialis" ; Times: 1
+	Query: "ZO-2012-550" ; Times: 1
+	Query: "Cossypha albicapillus mappable:1" ; Times: 4
+	Query: "Megaceryle torquata mappable:1" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "nyctibius aethereus" ; Times: 1
+	Query: "cossypha albicapilla" ; Times: 1
+	Query: "Lophornis stictolophus" ; Times: 2
+	Query: "Arachnothera robusta" ; Times: 2
+	Query: "bombus" ; Times: 2
+	Query: "Phoenicoparrus andinus" ; Times: 2
+	Query: "Lophornis adorabilis" ; Times: 1
+	Query: "Cinnyris dussumieri" ; Times: 4
+	Query: "Carpococcyx" ; Times: 2
+	Query: "strigops" ; Times: 2
+	Query: "Arundinicola leucocephala mappable:1" ; Times: 1
+	Query: "Gyps fulvus" ; Times: 1
+	Query: "Oenanthe hispanica" ; Times: 3
+	Query: "Cossypha albicapillus" ; Times: 4
+	Query: "Egretta garzetta year &gt; 1990 NOT clo" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1281 download events in this period)
+Total number of records downloaded: 82
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 3
+	Country: Argentina ; Times: 4
+	Country: United Kingdom ; Times: 16
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-11 ; Times: 2
+	Date: 2019-03-14 ; Times: 5
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-16 ; Times: 2
+	Date: 2019-03-17 ; Times: 6
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-15 ; Times: 6
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Zosterops citrinella" ; Times: 1
+	Query: "Chaetocercus bombus" ; Times: 1
+	Query: "Lorius garrulus" ; Times: 1
+	Query: "Aethopyga eximia" ; Times: 1
+	Query: "Psittirostra psittacea" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "Aethopyga shelleyi" ; Times: 1
+	Query: "Turdoides affinis" ; Times: 1
+	Query: "Leptocoma aspasia" ; Times: 1
+	Query: "Aethopyga mystacalis" ; Times: 1
+	Query: "melanopareia" ; Times: 1
+	Query: "Buteo polyosoma" ; Times: 2
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Loriculus pusillus" ; Times: 1
+	Query: "Oenanthe hispanica" ; Times: 1
+	Query: "Lophornis stictolophus" ; Times: 1
+	Query: "Psarocolius decumanus" ; Times: 1
+	Query: "Trichoglossus ornatus" ; Times: 1
+	Query: "Dicrurus macrocercus" ; Times: 1
+	Query: "Geospiza magnirostris" ; Times: 1
+	Query: "geranoaetus" ; Times: 2
+	Query: "Arachnothera robusta" ; Times: 1
+	Query: "Carpococcyx" ; Times: 1
+
+
+End of report.
