@@ -1,0 +1,143 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 576
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 57
+	Country: United States ; Times: 29
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 6
+	Country: Germany ; Times: 4
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 4
+	Date: 2019-04-18 ; Times: 16
+	Date: 2019-04-05 ; Times: 10
+	Date: 2019-04-13 ; Times: 2
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-17 ; Times: 2
+	Date: 2019-04-15 ; Times: 2
+	Date: 2019-04-04 ; Times: 3
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-06 ; Times: 28
+	Date: 2019-04-07 ; Times: 2
+	Date: 2019-04-26 ; Times: 2
+	Date: 2019-04-01 ; Times: 5
+	Date: 2019-04-28 ; Times: 2
+	Date: 2019-04-29 ; Times: 4
+	Date: 2019-04-08 ; Times: 4
+	Date: 2019-04-09 ; Times: 14
+	Date: 2019-04-27 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Anthracothorax viridigula" ; Times: 2
+	Query: "Strasbourg" ; Times: 1
+	Query: "Geotrygon montana mappable:1" ; Times: 2
+	Query: "Amazona aestiva mappable:1" ; Times: 25
+	Query: "Anhima cornuta" ; Times: 3
+	Query: "glaucidium capense" ; Times: 1
+	Query: "Tyto furcata" ; Times: 1
+	Query: "neophron percnopterus" ; Times: 1
+	Query: "minla sini" ; Times: 1
+	Query: "Ciconia maguari" ; Times: 2
+	Query: "Cyornis ruficauda" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "psophia crepitans" ; Times: 1
+	Query: "Columba nigrirostris vntype:specimen country:&#34;Panama&#34;" ; Times: 1
+	Query: "aegithalos concinnus" ; Times: 1
+	Query: "Acrocephalus palustris" ; Times: 3
+	Query: "Anhima cornuta mappable:1" ; Times: 1
+	Query: "Registro" ; Times: 1
+	Query: "ardeola ralloides" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 1
+	Query: "country:&#34;myanmar&#34; institutioncode:MNHN" ; Times: 1
+	Query: "Cossypha albicapillus" ; Times: 1
+	Query: "tetrao urogallus" ; Times: 3
+	Query: "Neomorphus geoffroyi" ; Times: 1
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 2
+	Query: "Cairina moschata" ; Times: 2
+	Query: "Cyornis brunneatus" ; Times: 1
+	Query: "MNHN-ZO-1884-2153" ; Times: 1
+	Query: "Megaceryle torquata mappable:1" ; Times: 2
+	Query: "aptenodytes forsteri" ; Times: 2
+	Query: "harpia harpyja" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "gypaetus barbatus" ; Times: 3
+	Query: "tetrax tetrax" ; Times: 1
+	Query: "Amazona guildingii" ; Times: 3
+	Query: "Cossypha dichroa" ; Times: 2
+	Query: "Cossypha dichroa mappable:1" ; Times: 2
+	Query: "Cossypha niveicapilla" ; Times: 1
+	Query: "Aramides cajaneus mappable:1" ; Times: 2
+	Query: "ferret" ; Times: 1
+	Query: "Alcippe morrisonia" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 2
+	Query: "Cossypha niveicapilla mappable:1" ; Times: 1
+	Query: "Pteroglossus inscriptus" ; Times: 1
+	Query: "Cossypha albicapillus mappable:1" ; Times: 1
+	Query: "Cercomacra cinerascens immaculata" ; Times: 1
+	Query: "pernis apivorus" ; Times: 1
+	Query: "Conurus" ; Times: 1
+	Query: "catalognumber:720 institutioncode:MNHN" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "Leptotila verreauxi mappable:1" ; Times: 1
+	Query: "Urubitinga urubitinga" ; Times: 1
+	Query: "Penelope superciliaris" ; Times: 2
+	Query: "buceros bicornis" ; Times: 1
+	Query: "Arundinicola leucocephala mappable:1" ; Times: 2
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "psittacula krameri" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1263 download events in this period)
+Total number of records downloaded: 88
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-29 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "Anthracothorax viridigula" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 1
+	Query: "walter koelz" ; Times: 1
+	Query: "Aptenodytes patagonicus" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "county:&#34;Loreto&#34;" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 1
+	Query: "country:&#34;Uruguay&#34;" ; Times: 1
+	Query: "amazilia fimbriata" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 2
+	Query: "Eudyptes pachyrhynchus" ; Times: 1
+	Query: "pitta" ; Times: 1
+
+
+End of report.
