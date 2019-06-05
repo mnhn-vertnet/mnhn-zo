@@ -1,0 +1,177 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 124
+Number of records retrieved in searches: 704
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 26
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Portugal ; Times: 12
+	Country: Mexico ; Times: 6
+	Country: Denmark ; Times: 21
+	Country: Turkey ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 18
+	Country: Germany ; Times: 8
+	Country: Colombia ; Times: 4
+	Country: Hong Kong ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 17
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 3
+	Date: 2019-05-31 ; Times: 9
+	Date: 2019-05-09 ; Times: 6
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-05 ; Times: 4
+	Date: 2019-05-04 ; Times: 2
+	Date: 2019-05-03 ; Times: 4
+	Date: 2019-05-02 ; Times: 7
+	Date: 2019-05-01 ; Times: 3
+	Date: 2019-05-24 ; Times: 3
+	Date: 2019-05-27 ; Times: 7
+	Date: 2019-05-26 ; Times: 5
+	Date: 2019-05-21 ; Times: 20
+	Date: 2019-05-20 ; Times: 4
+	Date: 2019-05-23 ; Times: 4
+	Date: 2019-05-22 ; Times: 6
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-19 ; Times: 4
+	Date: 2019-05-10 ; Times: 4
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-13 ; Times: 6
+	Date: 2019-05-14 ; Times: 7
+	Date: 2019-05-15 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "anthus lutescens" ; Times: 3
+	Query: "mnhn 2010-1750" ; Times: 1
+	Query: "Urocolius indicus year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Aptenodytes patagonicus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "aulacorhynchus guyana" ; Times: 2
+	Query: "Tetrao urogallus" ; Times: 9
+	Query: "coracopsis Seychelles" ; Times: 1
+	Query: "megadyptes antipodes" ; Times: 2
+	Query: "Raphus cucullatus" ; Times: 1
+	Query: "Corvus corone year &lt;=1940" ; Times: 2
+	Query: "Dyaphorophyia chalybea" ; Times: 1
+	Query: "&#34;Oriolus oriolus&#34; year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Korbol" ; Times: 1
+	Query: "Alectoris rufa year &lt;=1940" ; Times: 2
+	Query: "microbates collaris" ; Times: 4
+	Query: "Halcyon senegalensis year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "penelope marail" ; Times: 3
+	Query: "Columba nigrirostris vntype:specimen country:&#34;Panama&#34;" ; Times: 5
+	Query: "Upupa epops year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Aramides cajaneus mappable:1" ; Times: 3
+	Query: "eudyptes chrysolophus" ; Times: 1
+	Query: "macronectes giganteus" ; Times: 1
+	Query: "birds of Pantanal" ; Times: 1
+	Query: "Rhinoplax vigil" ; Times: 3
+	Query: "streptopelia decaocto year &gt;= 1970 year &lt;= 1980" ; Times: 1
+	Query: "Macheiramphus alcinus" ; Times: 1
+	Query: "Cochlearius cochlearius year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Megadyptes antipodes" ; Times: 2
+	Query: "Hylia prasina year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "raphus cucullatus" ; Times: 1
+	Query: "Pycnonotus jocosus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "Tricholaema leucomelas year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "rupicola peruvianus" ; Times: 1
+	Query: "Loddigesia mirabilis" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 1
+	Query: "Gallinula chloropus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Cyanistes caeruleus year&lt;=1900" ; Times: 1
+	Query: "emberiza cia" ; Times: 1
+	Query: "Casuarius casuarius year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "EUTOXERES AQUILA" ; Times: 2
+	Query: "eupetomena macroura" ; Times: 1
+	Query: "phaenicophaeus calyorhynchus" ; Times: 1
+	Query: "bubo ascalaphus" ; Times: 2
+	Query: "MNHN 5947" ; Times: 2
+	Query: "Cyanistes caeruleus year&lt;=1940" ; Times: 2
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "Ploceus nigricollis year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Chionis minor" ; Times: 1
+	Query: "Podiceps cristatus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "genital" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "dussumieri Seychelles" ; Times: 1
+	Query: "phalacrocorax brasilianus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "Psittacula krameri" ; Times: 1
+	Query: "Motacilla alba year&lt;=1940" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+	Query: "Scotopelia peli mnhn" ; Times: 1
+	Query: "tetrao urogallus" ; Times: 3
+	Query: "Lophornis chalybeus" ; Times: 1
+	Query: "Cyanoramphus" ; Times: 3
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "Notopholia corrusca" ; Times: 1
+	Query: "Odontophorus capueira" ; Times: 1
+	Query: "Certhia brachydactyla year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Alectoris rufa" ; Times: 1
+	Query: "lophornis chalybeus" ; Times: 1
+	Query: "Acrocephalus palustris" ; Times: 5
+	Query: "Discosura popelairii" ; Times: 1
+	Query: "Arundinicola leucocephala mappable:1" ; Times: 1
+	Query: "Chalcostigma herrani" ; Times: 1
+	Query: "rhodonessa caryophyllacea" ; Times: 1
+	Query: "pteroglossus inscriptus" ; Times: 6
+	Query: "Colius striatus year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Pelecanus crispus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 940 download events in this period)
+Total number of records downloaded: 185
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 12
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-02 ; Times: 5
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-03 ; Times: 2
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "pteroglossus inscriptus" ; Times: 1
+	Query: "Pygoscelis papua" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "Pygoscelis adeliae" ; Times: 2
+	Query: "Cyanoramphus" ; Times: 2
+	Query: "Spheniscus mendiculus" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "ramphastos sulfuratus" ; Times: 2
+	Query: "Ara macao vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Megadyptes antipodes" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+
+
+End of report.
