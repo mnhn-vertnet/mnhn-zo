@@ -1,0 +1,133 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 301
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 19
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 3
+	Country: France ; Times: 8
+	Country: United States ; Times: 22
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 7
+	Country: Spain ; Times: 3
+	Country: Chile ; Times: 3
+	Country: Belgium ; Times: 5
+	Country: China ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 5
+	Date: 2019-06-21 ; Times: 20
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-24 ; Times: 1
+	Date: 2019-06-18 ; Times: 7
+	Date: 2019-06-08 ; Times: 2
+	Date: 2019-06-30 ; Times: 3
+	Date: 2019-06-15 ; Times: 1
+	Date: 2019-06-07 ; Times: 7
+	Date: 2019-06-17 ; Times: 1
+	Date: 2019-06-16 ; Times: 1
+	Date: 2019-06-11 ; Times: 9
+	Date: 2019-06-10 ; Times: 2
+	Date: 2019-06-13 ; Times: 3
+	Date: 2019-06-12 ; Times: 5
+	Date: 2019-06-23 ; Times: 1
+	Date: 2019-06-29 ; Times: 3
+	Date: 2019-06-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Paradoxornis guttaticollis" ; Times: 1
+	Query: "miliaria" ; Times: 2
+	Query: "Cyanomitra cyanolaema cyanolaema" ; Times: 1
+	Query: "Amazona aestiva mappable:1" ; Times: 1
+	Query: "Starnoenas" ; Times: 2
+	Query: "Crocias albonotatus" ; Times: 3
+	Query: "Aptenodytes patagonicus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 2
+	Query: "Garth AND Island NOT Australia NOT Partida NOT Underwood NOT Auffenberg" ; Times: 1
+	Query: "Hose 1893" ; Times: 1
+	Query: "Columba nigrirostris vntype:specimen country:&#34;Panama&#34;" ; Times: 3
+	Query: "psittacara maugei" ; Times: 6
+	Query: "garrulax cachinnans" ; Times: 3
+	Query: "Angkor" ; Times: 1
+	Query: "Anthornis melanura" ; Times: 1
+	Query: "Amazilia fimbriata mappable:1" ; Times: 1
+	Query: "Alcedo hercules" ; Times: 1
+	Query: "Arundinicola leucocephala" ; Times: 1
+	Query: "ibycter americanus" ; Times: 2
+	Query: "Gallinula chloropus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Oreotrochilus chimborazo" ; Times: 1
+	Query: "Moineau" ; Times: 1
+	Query: "Lullula arborea" ; Times: 4
+	Query: "Amazona collaria" ; Times: 1
+	Query: "catalognumber:2342" ; Times: 1
+	Query: "Ardea cocoi" ; Times: 1
+	Query: "MNHN 4323" ; Times: 1
+	Query: "Buceros rhinoceros" ; Times: 8
+	Query: "Grallaria mnhn" ; Times: 1
+	Query: "rhinoplax vigil" ; Times: 1
+	Query: "Nola" ; Times: 1
+	Query: "Brotogeris tirica" ; Times: 1
+	Query: "tchagra tchagra" ; Times: 1
+	Query: "1894 hose" ; Times: 2
+	Query: "Garth AND Island NOT Australia NOT Partida NOT Underwood" ; Times: 1
+	Query: "simplex everett" ; Times: 1
+	Query: "ara macao" ; Times: 2
+	Query: "Everett 1898" ; Times: 1
+	Query: "Calidris canutus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Garth AND Island NOT Australia NOT Spellman NOT Partida NOT Underwood NOT Auffenberg" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 1
+	Query: "Garth AND Island NOT Australia NOT Ecuador NOT Spellman NOT Partida NOT Underwood NOT Auffenberg" ; Times: 1
+	Query: "Arremon taciturnus" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 1
+	Query: "buceros rhinoceros" ; Times: 2
+	Query: "aegypius monachus" ; Times: 2
+	Query: "Malia grata" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1182 download events in this period)
+Total number of records downloaded: 122
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 3
+	Country: China ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-23 ; Times: 1
+	Date: 2019-06-25 ; Times: 1
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-07 ; Times: 1
+	Date: 2019-06-11 ; Times: 2
+	Date: 2019-06-03 ; Times: 2
+	Date: 2019-06-10 ; Times: 1
+	Date: 2019-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cathartes aura" ; Times: 2
+	Query: "Amazilia fimbriata" ; Times: 1
+	Query: "Cyanomitra cyanolaema cyanolaema" ; Times: 1
+	Query: "Bolborhynchus lineola vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "psittacara maugei" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Oreotrochilus chimborazo" ; Times: 1
+	Query: "Paradoxornis" ; Times: 1
+	Query: "Everett 1898" ; Times: 1
+
+
+End of report.
