@@ -1,0 +1,176 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 131
+Number of records retrieved in searches: 599
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: United States ; Times: 33
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Philippines ; Times: 7
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 12
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 42
+	Country: Puerto Rico ; Times: 3
+	Country: China ; Times: 1
+	Country: Gambia ; Times: 2
+	Country: Belgium ; Times: 4
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Germany ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 6
+	Date: 2019-07-18 ; Times: 9
+	Date: 2019-07-19 ; Times: 2
+	Date: 2019-07-08 ; Times: 6
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-10 ; Times: 8
+	Date: 2019-07-11 ; Times: 8
+	Date: 2019-07-16 ; Times: 6
+	Date: 2019-07-17 ; Times: 9
+	Date: 2019-07-15 ; Times: 7
+	Date: 2019-07-29 ; Times: 7
+	Date: 2019-07-23 ; Times: 6
+	Date: 2019-07-22 ; Times: 2
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-24 ; Times: 4
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-03 ; Times: 8
+	Date: 2019-07-28 ; Times: 3
+	Date: 2019-07-05 ; Times: 18
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-06 ; Times: 6
+	Date: 2019-07-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "puffinus newelli" ; Times: 1
+	Query: "Sylvia mystacea" ; Times: 1
+	Query: "Ammomanes cinctura" ; Times: 3
+	Query: "Paradoxornis ruficeps" ; Times: 1
+	Query: "MNHN 4881 vntype:specimen" ; Times: 1
+	Query: "Dreptes thomensis" ; Times: 2
+	Query: "42-480" ; Times: 1
+	Query: "saxicola rubicola" ; Times: 3
+	Query: "cervicalis" ; Times: 2
+	Query: "Thinornis novaeseelandiae" ; Times: 1
+	Query: "Megadyptes" ; Times: 1
+	Query: "puffinus myrtae" ; Times: 2
+	Query: "pterodroma mollis" ; Times: 2
+	Query: "MNHN-4881 vntype:specimen" ; Times: 1
+	Query: "pachyptila turtur" ; Times: 1
+	Query: "Alcasid 1946 country:&#34;Philippines&#34;" ; Times: 2
+	Query: "Pomatorhinus ruficollis beaulieui" ; Times: 1
+	Query: "Melanocorypha yeltoniensis" ; Times: 1
+	Query: "Columba nigrirostris vntype:specimen country:&#34;Panama&#34;" ; Times: 3
+	Query: "sumichrast chiapas" ; Times: 1
+	Query: "Rabor 1946 country:&#34;Philippines&#34;" ; Times: 4
+	Query: "Necrosyrtes monachus" ; Times: 2
+	Query: "eudyptes pachyrhynchus" ; Times: 1
+	Query: "Notiomystis cincta" ; Times: 1
+	Query: "sechellensis" ; Times: 2
+	Query: "Mascarinus mascarin" ; Times: 1
+	Query: "Spelaeornis kinneari" ; Times: 1
+	Query: "Gillet" ; Times: 1
+	Query: "diomedea irrorata" ; Times: 6
+	Query: "Calandrella brachydactyla" ; Times: 2
+	Query: "procellaria" ; Times: 1
+	Query: "Pteroglossus castanotis mappable:1" ; Times: 1
+	Query: "Eunymphicus uvaeensis" ; Times: 1
+	Query: "Amazona aestiva mappable:1" ; Times: 1
+	Query: "pelagodroma year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "Spelaeornis chocolatinus" ; Times: 3
+	Query: "Brotogeris versicolurus mappable:1" ; Times: 1
+	Query: "hydrobates leucorhous" ; Times: 1
+	Query: "Loriculus pusillus" ; Times: 1
+	Query: "amsterdamensis" ; Times: 1
+	Query: "Amazona guildingii" ; Times: 1
+	Query: "puffinus subalaris" ; Times: 5
+	Query: "Diomedea amsterdamensis" ; Times: 5
+	Query: "Anthobaphes violacea" ; Times: 1
+	Query: "Brotogeris tirica mappable:1" ; Times: 1
+	Query: "pelagodroma marina year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "pomatorhinus albipectus" ; Times: 1
+	Query: "pachyptila salvini" ; Times: 1
+	Query: "pterodroma phaeopygia galapagos" ; Times: 1
+	Query: "Buceros rhinoceros" ; Times: 2
+	Query: "otis tarda tarda" ; Times: 1
+	Query: "Cyanoramphus Auckland" ; Times: 1
+	Query: "Napothera crispifrons" ; Times: 1
+	Query: "Empidornis semipartitus" ; Times: 1
+	Query: "Celestino 1946 country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Humblotia flavirostris" ; Times: 1
+	Query: "Amazona festiva" ; Times: 1
+	Query: "Amazona vinacea mappable:1" ; Times: 1
+	Query: "glaucidium capense" ; Times: 1
+	Query: "ficedula dumetoria" ; Times: 2
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "hydrobates leucorhous year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "pachyptila vittata" ; Times: 3
+	Query: "Pteroglossus inscriptus mappable:1" ; Times: 1
+	Query: "Amazona barbadensis" ; Times: 1
+	Query: "buceros rhinoceros" ; Times: 2
+	Query: "MNHN 4881 institutioncode:MNHN" ; Times: 1
+	Query: "Eupetomena macroura mappable:1" ; Times: 5
+	Query: "pachyptila crozet" ; Times: 2
+	Query: "Callewaert" ; Times: 3
+	Query: "upupa epops" ; Times: 9
+	Query: "MNHN 5738" ; Times: 1
+	Query: "Schistochlamys ruficapillus mappable:1" ; Times: 1
+	Query: "otis tarda" ; Times: 4
+	Query: "oceanites gracilis" ; Times: 1
+	Query: "Amazona dufresniana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 985 download events in this period)
+Total number of records downloaded: 210
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Guadeloupe ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-08 ; Times: 4
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-31 ; Times: 8
+	Date: 2019-07-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Branta bernicla" ; Times: 1
+	Query: "(&#34;Patagioenas leucocephala&#34; OR &#34;Columba leucocephala&#34;)" ; Times: 1
+	Query: "crax rubra" ; Times: 8
+	Query: "Fulmarus glacialis year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "galapagos" ; Times: 1
+	Query: "Branta hutchinsii" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "phoenicopterus chilensis" ; Times: 1
+	Query: "Anser caerulescens" ; Times: 1
+	Query: "Paradoxornis" ; Times: 1
+	Query: "upupa epops" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Poephila cincta" ; Times: 1
+
+
+End of report.
