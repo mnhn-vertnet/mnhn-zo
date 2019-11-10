@@ -1,0 +1,304 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 246
+Number of records retrieved in searches: 2202
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: Canada ; Times: 3
+	Country: Cuba ; Times: 1
+	Country: Denmark ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 6
+	Country: United States ; Times: 136
+	Country: Sweden ; Times: 3
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 4
+	Country: United Kingdom ; Times: 54
+	Country: Unknown ; Times: 1
+	Country: Japan ; Times: 5
+	Country: New Zealand ; Times: 3
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 16
+	Date: 2019-09-16 ; Times: 32
+	Date: 2019-09-17 ; Times: 4
+	Date: 2019-09-10 ; Times: 22
+	Date: 2019-09-11 ; Times: 7
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 4
+	Date: 2019-09-18 ; Times: 8
+	Date: 2019-09-19 ; Times: 14
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 9
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 40
+	Date: 2019-09-01 ; Times: 3
+	Date: 2019-09-06 ; Times: 32
+	Date: 2019-09-05 ; Times: 3
+	Date: 2019-09-04 ; Times: 3
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-20 ; Times: 3
+	Date: 2019-09-23 ; Times: 22
+	Date: 2019-09-22 ; Times: 4
+	Date: 2019-09-24 ; Times: 5
+	Date: 2019-09-26 ; Times: 6
+	Date: 2019-09-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "institutioncode:MNHN fregetta" ; Times: 2
+	Query: "Dicrurus ludwigii sharpei" ; Times: 2
+	Query: "Calidris canutus" ; Times: 15
+	Query: "gypaetus france" ; Times: 1
+	Query: "Muscicapa olivascens vntype:specimen sex:female" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "Humblotia flavirostris mnhn" ; Times: 1
+	Query: "Ficedula sapphira vntype:specimen sex:female" ; Times: 1
+	Query: "Niltava vivida vntype:specimen sex:female" ; Times: 1
+	Query: "Phaethornis syrmatophorus" ; Times: 1
+	Query: "Rhinoplax vigil" ; Times: 1
+	Query: "Melaenornis microrhynchus vntype:specimen sex:female" ; Times: 1
+	Query: "institutioncode:MNHN birds collection" ; Times: 1
+	Query: "institutioncode:MNHN fulmarus" ; Times: 2
+	Query: "Aglaiocercus kingii" ; Times: 1
+	Query: "amsterdamensis" ; Times: 1
+	Query: "myrtae" ; Times: 1
+	Query: "dendrocopos leucotos lilfordi" ; Times: 1
+	Query: "Eumyias thalassinus" ; Times: 1
+	Query: "sibirica rothschildi" ; Times: 1
+	Query: "Muscicapa ussheri vntype:specimen" ; Times: 2
+	Query: "Puffinus newelli" ; Times: 1
+	Query: "Muscicapa cassini vntype:specimen" ; Times: 1
+	Query: "Muscicapa infuscata vntype:specimen" ; Times: 1
+	Query: "puffinus polynesiae" ; Times: 1
+	Query: "Eumyias thalassinus vntype:specimen sex:female" ; Times: 1
+	Query: "Nothocrax urumutum" ; Times: 1
+	Query: "Corvus cornix" ; Times: 1
+	Query: "rhodonessa" ; Times: 1
+	Query: "ficedula annamensis" ; Times: 1
+	Query: "bulweria fallax" ; Times: 2
+	Query: "institutioncode:MNHN daption" ; Times: 1
+	Query: "Catreus wallichii" ; Times: 3
+	Query: "institutioncode:MNHN puffinus dichrous" ; Times: 1
+	Query: "zosterops everetti" ; Times: 2
+	Query: "garrulax tonkinensis" ; Times: 1
+	Query: "institutioncode:MNHN bulweria" ; Times: 1
+	Query: "Nothocrax urumutum NOT (skin OR skel OR skeleton OR chick OR egg)" ; Times: 1
+	Query: "Catreus wallichii NOT (skin OR skeleton OR egg OR skel OR chick)" ; Times: 1
+	Query: "Prunella collaris" ; Times: 5
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 2
+	Query: "loddigesia" ; Times: 1
+	Query: "raphus" ; Times: 2
+	Query: "Ficedula sapphira vntype:specimen" ; Times: 2
+	Query: "psophia viridis" ; Times: 2
+	Query: "Glaucis hirsutus" ; Times: 1
+	Query: "cercotrichas signata" ; Times: 1
+	Query: "Catreus wallichii NOT (skin)" ; Times: 1
+	Query: "cyornis rogersi" ; Times: 1
+	Query: "Heliodoxa schreibersii" ; Times: 1
+	Query: "sibirica Iris" ; Times: 2
+	Query: "ramphocinclus brachyurus" ; Times: 3
+	Query: "Catreus wallichii NOT (skin OR skeleton OR egg OR skel OR chick OR NHMUK OR RBINS)" ; Times: 1
+	Query: "Ficedula dumetoria" ; Times: 3
+	Query: "puffinus polynesia" ; Times: 1
+	Query: "Catreus wallichii NOT (skin OR skeleton OR egg)" ; Times: 1
+	Query: "Lophornis chalybeus" ; Times: 1
+	Query: "institutioncode:MNHN pelagodroma" ; Times: 1
+	Query: "MNHN ZO" ; Times: 1
+	Query: "palumbus Columba" ; Times: 4
+	Query: "Pyrilia pyrilia" ; Times: 1
+	Query: "institutioncode:MNHN pterodroma" ; Times: 1
+	Query: "Muscicapa tyrrhenica vntype:specimen" ; Times: 1
+	Query: "Campethera maculosa mnhn" ; Times: 1
+	Query: "dreptes thomensis mnhn" ; Times: 1
+	Query: "Nothocrax urumutum NOT (skin OR skel OR sound OR skeleton OR chick OR egg)" ; Times: 1
+	Query: "institutioncode:MNHN puffinus" ; Times: 3
+	Query: "diomedea exulans amsterdam" ; Times: 1
+	Query: "Catreus wallichii NOT (skin OR skeleton OR egg OR skel)" ; Times: 1
+	Query: "rhodonessa caryophyllacea" ; Times: 1
+	Query: "institutioncode:MNHN eremita" ; Times: 1
+	Query: "ara tricolor" ; Times: 1
+	Query: "MNHN 1112" ; Times: 1
+	Query: "Discosura langsdorffi" ; Times: 1
+	Query: "institutioncode:MNHN irrorata" ; Times: 1
+	Query: "Puffinus newelli MNHN" ; Times: 1
+	Query: "Cyornis olivaceus sex:female" ; Times: 2
+	Query: "Phoenicurus schisticeps sex:female" ; Times: 1
+	Query: "Heteralocha female" ; Times: 1
+	Query: "MNHN 1881-23" ; Times: 1
+	Query: "Leucopternis albicollis ghiesbreghti" ; Times: 1
+	Query: "claravis mondetoura" ; Times: 5
+	Query: "institutioncode:MNHN pelecanoides" ; Times: 1
+	Query: "Apteryx" ; Times: 3
+	Query: "strigops habroptilus mnhn" ; Times: 2
+	Query: "Cercotrichas signata vntype:specimen sex:female" ; Times: 2
+	Query: "Muscicapa sethsmithi vntype:specimen" ; Times: 1
+	Query: "Chalcophaps longirostris" ; Times: 1
+	Query: "cacabata" ; Times: 1
+	Query: "Loddigesia mirabilis" ; Times: 1
+	Query: "Chlorestes notata" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 2
+	Query: "Muscicapa cassini vntype:specimen sex:female" ; Times: 2
+	Query: "aquila pyrenees" ; Times: 1
+	Query: "strigops habroptila mnhn" ; Times: 1
+	Query: "Muscicapa striata tyrrhenica vntype:specimen" ; Times: 1
+	Query: "institutioncode:MNHN oceanodroma" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 5
+	Query: "Philydor rufum" ; Times: 2
+	Query: "Buceros rhinoceros" ; Times: 3
+	Query: "Cyornis olivaceus vntype:specimen sex:female" ; Times: 1
+	Query: "Niltava vivida sex:female" ; Times: 2
+	Query: "institutioncode:MNHN oceanites" ; Times: 2
+	Query: "institutioncode:MNHN bulweria fallax" ; Times: 1
+	Query: "Discosura longicaudus" ; Times: 1
+	Query: "institutioncode:MNHN puffinus assimilis" ; Times: 1
+	Query: "Heteralocha" ; Times: 2
+	Query: "Ficedula sapphira vntype:specimen sex:female basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:MNHN procellaria" ; Times: 2
+	Query: "cardinalis coccineus" ; Times: 1
+	Query: "strigops habroptila" ; Times: 2
+	Query: "institutioncode:MNHN epomophora" ; Times: 1
+	Query: "pelecanoides kerguelen" ; Times: 2
+	Query: "Pluma hidalgo" ; Times: 1
+	Query: "Parophasma galinieri mnhn" ; Times: 1
+	Query: "columba nitidissima mnhn" ; Times: 2
+	Query: "cyanoramphus zealandicus" ; Times: 2
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Columba nigrirostris vntype:specimen country:&#34;Panama&#34;" ; Times: 1
+	Query: "Cercotrichas signata vntype:specimen" ; Times: 1
+	Query: "Caprimulgus enarratus" ; Times: 4
+	Query: "Pelecanus philippensis" ; Times: 1
+	Query: "Niltava vivida" ; Times: 2
+	Query: "Cossypha albicapillus" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 1
+	Query: "institutioncode:MNHN diomedea" ; Times: 1
+	Query: "Saxicola gutturalis" ; Times: 3
+	Query: "Nothocrax urumutum NOT (skin OR skel OR skeleton OR chick)" ; Times: 1
+	Query: "institutioncode:MNHN pagodroma" ; Times: 2
+	Query: "institutioncode:MNHN pachyptila" ; Times: 3
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Cossypha albicapillus vntype:specimen" ; Times: 1
+	Query: "institutioncode:MNHN puffinus polynesiae" ; Times: 2
+	Query: "Ficedula superciliaris" ; Times: 1
+	Query: "strigops habroptilus" ; Times: 3
+	Query: "oriolus traillii" ; Times: 3
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Cyornis rubeculoides vntype:specimen sex:female" ; Times: 1
+	Query: "Cercomacra nigrescens aequatorialis" ; Times: 1
+	Query: "Catreus wallichii NOT (skin OR skeleton)" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "Eriocnemis aline" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "Pinguinus" ; Times: 1
+	Query: "Klais guimeti" ; Times: 1
+	Query: "Mascarinus mascarin mnhn" ; Times: 1
+	Query: "MUSCICAPA ruficauda vntype:specimen sex:female" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 7
+	Query: "Nothocrax urumutum NOT (skin OR skel OR sound OR skeleton OR chick OR egg OR eggs)" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 9
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 63 (out of 1073 download events in this period)
+Total number of records downloaded: 347
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 22
+	Country: United States ; Times: 29
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Singapore ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-10 ; Times: 27
+	Date: 2019-09-11 ; Times: 16
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 4
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-09 ; Times: 6
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Metallura tyrianthina" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "Discosura langsdorffi" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 1
+	Query: "Pluma hidalgo" ; Times: 1
+	Query: "Heliodoxa schreibersii" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Lesbia" ; Times: 1
+	Query: "Aglaeactis cupripennis" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "Phaethornis eurynome" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Phaethornis syrmatophorus" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "pachyptila" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "Loddigesia mirabilis" ; Times: 1
+	Query: "Chlorestes notata" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Aglaiocercus kingii" ; Times: 2
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "Coeligena iris" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "celebensis" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "Turdus nudigenis" ; Times: 1
+	Query: "Lophornis chalybeus" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 2
+	Query: "Thalurania furcata" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "Hylocharis sapphirina" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "laterallus melanophaius vntype:specimen" ; Times: 1
+	Query: "Discosura longicaudus" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 2
+	Query: "canorus" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "Eriocnemis aline" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 1
+
+
+End of report.
