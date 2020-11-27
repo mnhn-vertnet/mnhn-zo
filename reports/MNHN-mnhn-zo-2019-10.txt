@@ -1,0 +1,153 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 102
+Number of records retrieved in searches: 397
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 59
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 7
+	Country: India ; Times: 2
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 11
+	Country: Sweden ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-21 ; Times: 13
+	Date: 2019-10-25 ; Times: 3
+	Date: 2019-10-24 ; Times: 13
+	Date: 2019-10-01 ; Times: 2
+	Date: 2019-10-03 ; Times: 4
+	Date: 2019-10-02 ; Times: 6
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-23 ; Times: 5
+	Date: 2019-10-22 ; Times: 9
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-18 ; Times: 3
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-10 ; Times: 6
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-31 ; Times: 5
+	Date: 2019-10-17 ; Times: 3
+	Date: 2019-10-15 ; Times: 13
+	Date: 2019-10-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "papua Pygoscelis" ; Times: 1
+	Query: "rhinoplax vigil" ; Times: 1
+	Query: "Phodilus badius" ; Times: 1
+	Query: "Mycteria americana 1983" ; Times: 1
+	Query: "parus cyanus" ; Times: 4
+	Query: "Cercotrichas signata" ; Times: 5
+	Query: "vntype:specimen Ficedula sapphira" ; Times: 1
+	Query: "amazona vinacea" ; Times: 1
+	Query: "Columba nigrirostris vntype:specimen country:&#34;Panama&#34;" ; Times: 10
+	Query: "Cercotrichas signata vntype:specimen" ; Times: 1
+	Query: "garrulax connectens" ; Times: 1
+	Query: "country:&#34;belarus&#34;" ; Times: 1
+	Query: "vntype:specimen Cercotrichas podobe" ; Times: 1
+	Query: "Empidornis semipartitus vntype:specimen" ; Times: 1
+	Query: "Coccyzus americanus 1990" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 9
+	Query: "&#34;Deignan&#34;" ; Times: 1
+	Query: "Batrachostomus" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 1
+	Query: "Mycteria americana 2015" ; Times: 1
+	Query: "Loddigesia mirabilis" ; Times: 1
+	Query: "pellorneum oreum" ; Times: 2
+	Query: "Ficedula nigrorufa vntype:specimen" ; Times: 1
+	Query: "onocrotalus" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "county:&#34;Rio de Janeiro&#34;" ; Times: 1
+	Query: "Loriculus pusillus" ; Times: 1
+	Query: "Xema sabini continent:Europe" ; Times: 3
+	Query: "Mycteria americana 1990" ; Times: 1
+	Query: "myrtae" ; Times: 1
+	Query: "county:&#34;Middlesex&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 2
+	Query: "Mus musculus 2009" ; Times: 2
+	Query: "niltava grandis" ; Times: 2
+	Query: "vntype:specimen Ficedula speculigera" ; Times: 1
+	Query: "county:&#34;San Ignacio&#34;" ; Times: 1
+	Query: "Zosterops palpebrosus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Amazona vinacea" ; Times: 2
+	Query: "erythrorhynchos Pelecanus" ; Times: 6
+	Query: "vntype:specimen Muscicapa ruficauda" ; Times: 1
+	Query: "puffinus nativitatis" ; Times: 1
+	Query: "heliothryx auritus" ; Times: 2
+	Query: "phodilus" ; Times: 1
+	Query: "Mycteria americana 2014" ; Times: 1
+	Query: "Cercomacra brasiliana" ; Times: 2
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "Saxicola rubicola" ; Times: 1
+	Query: "Niltava vivida vntype:specimen" ; Times: 1
+	Query: "Mycteria americana 2012" ; Times: 1
+	Query: "Coccyzus americanus 1989" ; Times: 1
+	Query: "Megadyptes antipodes" ; Times: 9
+	Query: "pondicherry" ; Times: 2
+	Query: "poephila cincta" ; Times: 1
+	Query: "Eumyias albicaudatus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Saxicola gutturalis vntype:specimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1308 download events in this period)
+Total number of records downloaded: 60
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 2
+	Date: 2019-10-08 ; Times: 2
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-02 ; Times: 3
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-03 ; Times: 2
+	Date: 2019-10-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tapera naevia" ; Times: 1
+	Query: "heliothryx auritus" ; Times: 3
+	Query: "Pnoepyga" ; Times: 1
+	Query: "Geospiza" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "anisognathus" ; Times: 1
+	Query: "Halcyon australasia australasia" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "buteo platypterus" ; Times: 1
+	Query: "amethystina" ; Times: 1
+	Query: "poephila cincta" ; Times: 1
+	Query: "Setophaga americana" ; Times: 1
+	Query: "chloephaga rubidiceps" ; Times: 2
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+
+
+End of report.
