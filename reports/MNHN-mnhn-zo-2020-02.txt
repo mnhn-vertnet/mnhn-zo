@@ -1,0 +1,157 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 119
+Number of records retrieved in searches: 1228
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 58
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Gambia ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 9
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 34
+	Country: Sweden ; Times: 2
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 4
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-24 ; Times: 5
+	Date: 2020-02-03 ; Times: 4
+	Date: 2020-02-26 ; Times: 6
+	Date: 2020-02-27 ; Times: 5
+	Date: 2020-02-20 ; Times: 3
+	Date: 2020-02-21 ; Times: 10
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-23 ; Times: 8
+	Date: 2020-02-28 ; Times: 4
+	Date: 2020-02-29 ; Times: 2
+	Date: 2020-02-11 ; Times: 10
+	Date: 2020-02-10 ; Times: 10
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 7
+	Date: 2020-02-17 ; Times: 3
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-19 ; Times: 6
+	Date: 2020-02-18 ; Times: 25
+	Date: 2020-02-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:Cajanuma  " ; Times: 3
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "anthus furcatus" ; Times: 1
+	Query: "&#34;ara tricolor&#34;" ; Times: 4
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "astrapia splendidissima" ; Times: 2
+	Query: "pachyptila turtur" ; Times: 2
+	Query: "Egretta gularis schistacea" ; Times: 1
+	Query: "pellorneum oreum" ; Times: 2
+	Query: "megapodius freycinet" ; Times: 5
+	Query: "Oceanites galapagos" ; Times: 1
+	Query: "locality:Chimborazo " ; Times: 1
+	Query: "caudata huttoni" ; Times: 2
+	Query: "TAM 1521" ; Times: 1
+	Query: "coracopsis nigra" ; Times: 6
+	Query: "gbifdatasetid:ba0c03ab-fa61-4a3c-8db7-35c8c3454168" ; Times: 1
+	Query: "leucorhous" ; Times: 2
+	Query: "Pteruthius flaviscapis" ; Times: 6
+	Query: "phoenicopterus ruber" ; Times: 3
+	Query: "sarcoramphus papa" ; Times: 2
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "Penelope pileata" ; Times: 2
+	Query: "Strix seloputo" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "hydrobates castro" ; Times: 2
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "napothera proxima" ; Times: 3
+	Query: "Podiceps cristatus" ; Times: 5
+	Query: "puffinus reunion" ; Times: 1
+	Query: "Diomedea amsterdam" ; Times: 6
+	Query: "Melocichla mentalis" ; Times: 1
+	Query: "megapodius freycinet waigeo" ; Times: 1
+	Query: "Ploceus hypoxanthus" ; Times: 1
+	Query: "Egretta gularis" ; Times: 1
+	Query: "Rhodonessa caryophyllacea" ; Times: 2
+	Query: "nesillas typica" ; Times: 17
+	Query: "Oceanites gracilis" ; Times: 1
+	Query: "pterodroma galapagos" ; Times: 1
+	Query: "puffinus bailloni" ; Times: 1
+	Query: "Illadopsis puveli" ; Times: 2
+	Query: "exulans amsterdam" ; Times: 2
+	Query: "Illadopsis cleaveri" ; Times: 2
+	Query: "institutioncode:mnhn amethystina" ; Times: 1
+	Query: "coeligena iris" ; Times: 1
+	Query: "Calandrella acutirostris" ; Times: 1
+	Query: "locality:Cajanuma " ; Times: 1
+	Query: "pelecanoides urinatrix tierra" ; Times: 1
+	Query: "cyornis rogersi" ; Times: 1
+	Query: "Muscicapa sethsmithi" ; Times: 2
+	Query: "ramphocinclus" ; Times: 1
+	Query: "Diomedea amsterdamensis" ; Times: 3
+	Query: "puffinus subalaris" ; Times: 3
+	Query: "Oceanodroma tethys" ; Times: 1
+	Query: "passer domesticus institutioncode:MNHN" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1023 download events in this period)
+Total number of records downloaded: 490
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Netherlands ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: El Salvador ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Guyana ; Times: 1
+	Country: Iraq ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-22 ; Times: 4
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "setophaga coronata coronata" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "kurdistan" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "momotus mexicanus" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "megapodius freycinet" ; Times: 1
+	Query: "Amazona leucocephala" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "pitta sordida" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "anthus furcatus" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "fulmarus glacialis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "setophaga coronata auduboni" ; Times: 1
+
+
+End of report.
