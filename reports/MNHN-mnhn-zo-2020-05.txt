@@ -1,0 +1,127 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 272
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 21
+	Country: South Africa ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 5
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Argentina ; Times: 4
+	Country: Iraq ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 3
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-23 ; Times: 3
+	Date: 2020-05-29 ; Times: 3
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-07 ; Times: 5
+	Date: 2020-05-09 ; Times: 4
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-10 ; Times: 2
+	Date: 2020-05-06 ; Times: 9
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-03 ; Times: 4
+	Date: 2020-05-02 ; Times: 2
+	Date: 2020-05-16 ; Times: 4
+	Date: 2020-05-17 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "gypaetus" ; Times: 2
+	Query: "cercomacra brasiliana" ; Times: 1
+	Query: "Jabouilleia danjoui" ; Times: 4
+	Query: "Geotrygon mystacea" ; Times: 2
+	Query: "Geotrygon saphirina" ; Times: 1
+	Query: "gypaetus barbatus" ; Times: 2
+	Query: "Geotrygon caniceps" ; Times: 1
+	Query: "larus maculipennis" ; Times: 1
+	Query: "saphirina" ; Times: 1
+	Query: "Garrulax maximus mnhn" ; Times: 1
+	Query: "baer" ; Times: 1
+	Query: "cyornis tickelliae" ; Times: 1
+	Query: "MNHN-1870-665" ; Times: 1
+	Query: "Geotrygon versicolor" ; Times: 1
+	Query: "county:&#34;san cristobal&#34;" ; Times: 1
+	Query: "geotrygon saphirina" ; Times: 4
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "pomatorhinus eidos" ; Times: 4
+	Query: "Sturnus contra" ; Times: 1
+	Query: "Chauvin" ; Times: 2
+	Query: "&#34;Anas rubripes&#34; lifestage:immature sex:female" ; Times: 1
+	Query: "MNHN-1870-229" ; Times: 1
+	Query: "columba plumbea" ; Times: 2
+	Query: "Garrulax lanceolatus mnhn" ; Times: 1
+	Query: "Yemen" ; Times: 1
+	Query: "argent" ; Times: 1
+	Query: "Godwin-Austen" ; Times: 1
+	Query: "zosterops everetti" ; Times: 1
+	Query: "Garrulax lunulatus mnhn" ; Times: 1
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "pachyptila vittata" ; Times: 4
+	Query: "Caprimulgus affinis" ; Times: 2
+	Query: "Geotrygon montana martinica" ; Times: 1
+	Query: "Alcedo hercules" ; Times: 2
+	Query: "aegypius monachus" ; Times: 1
+	Query: "MNHN 599" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1106 download events in this period)
+Total number of records downloaded: 10863
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Argentina ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-06 ; Times: 10
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-01 ; Times: 3
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vultur gryphus" ; Times: 4
+	Query: "Amazona leucocephala leucocephala" ; Times: 2
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "Geotrygon versicolor" ; Times: 1
+	Query: "Geotrygon mystacea" ; Times: 2
+	Query: "Geotrygon montana martinica" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Rollo Beck" ; Times: 1
+	Query: "Geotrygon caniceps" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "Geotrygon saphirina" ; Times: 1
+
+
+End of report.
