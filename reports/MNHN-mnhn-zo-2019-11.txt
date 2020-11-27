@@ -1,0 +1,124 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 352
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 9
+	Country: India ; Times: 3
+	Country: France ; Times: 5
+	Country: United States ; Times: 63
+	Country: Germany ; Times: 4
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Cyprus ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-14 ; Times: 3
+	Date: 2019-11-21 ; Times: 4
+	Date: 2019-11-22 ; Times: 9
+	Date: 2019-11-05 ; Times: 7
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-08 ; Times: 8
+	Date: 2019-11-09 ; Times: 8
+	Date: 2019-11-06 ; Times: 2
+	Date: 2019-11-07 ; Times: 11
+	Date: 2019-11-04 ; Times: 7
+	Date: 2019-11-16 ; Times: 8
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-13 ; Times: 5
+	Date: 2019-11-01 ; Times: 4
+	Date: 2019-11-28 ; Times: 4
+	Date: 2019-11-10 ; Times: 3
+	Date: 2019-11-27 ; Times: 2
+	Date: 2019-11-29 ; Times: 2
+	Date: 2019-11-26 ; Times: 13
+	Date: 2019-11-12 ; Times: 4
+	Date: 2019-11-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Gorsachius melanolophus" ; Times: 1
+	Query: "Heliangelus strophianus" ; Times: 7
+	Query: "Sylvia mystacea" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 3
+	Query: "garrulax tonkinensis" ; Times: 1
+	Query: "Mycteria americana 1983" ; Times: 4
+	Query: "Cyornis banyumas" ; Times: 3
+	Query: "Rynchops albicollis" ; Times: 1
+	Query: "Aquila chrysaetos year &gt; 1990" ; Times: 1
+	Query: "Columba nigrirostris vntype:specimen country:&#34;Panama&#34;" ; Times: 2
+	Query: "Oxylabes madagascariensis" ; Times: 1
+	Query: "Aquila chrysaetos year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "pondicherry" ; Times: 1
+	Query: "aerodramus francicus" ; Times: 1
+	Query: "Anodorhynchus leari" ; Times: 3
+	Query: "catalognumber:942" ; Times: 1
+	Query: "locality:tarawai" ; Times: 1
+	Query: "Corvus cornix cornix" ; Times: 1
+	Query: "puffinus auricularis" ; Times: 1
+	Query: "Coccyzus americanus 1990" ; Times: 4
+	Query: "oceanites gracilis galapagos" ; Times: 1
+	Query: "raphus cucullatus" ; Times: 5
+	Query: "61132" ; Times: 1
+	Query: "leon holotype" ; Times: 1
+	Query: "Eolophus roseicapilla" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "Mycteria americana 2015" ; Times: 4
+	Query: "Mycteria americana 2014" ; Times: 4
+	Query: "Hippolais icterina" ; Times: 1
+	Query: "Mycteria americana 2012" ; Times: 4
+	Query: "montifringilla nivalis" ; Times: 2
+	Query: "MNHN-ZO-2013-1304" ; Times: 1
+	Query: "turdoides squamiceps" ; Times: 2
+	Query: "diomedea amsterdamensis" ; Times: 2
+	Query: "trait" ; Times: 2
+	Query: "Mycteria americana 1990" ; Times: 4
+	Query: "gubernatrix cristata" ; Times: 1
+	Query: "garrulax schauenseei" ; Times: 1
+	Query: "pomatorhinus albipectus" ; Times: 1
+	Query: "pterodroma phaeopygia galapagos" ; Times: 1
+	Query: "Leon holotype" ; Times: 3
+	Query: "hippolais icterina" ; Times: 3
+	Query: "johannae" ; Times: 3
+	Query: "MNHN-ZO-2013-1212" ; Times: 1
+	Query: "pomatorhinus eidos" ; Times: 2
+	Query: "Buteo brachyurus" ; Times: 1
+	Query: "Coccyzus americanus 1989" ; Times: 4
+	Query: "bombus" ; Times: 1
+	Query: "Falco sparverius vntype:specimen country:&#34;Cuba&#34;" ; Times: 3
+	Query: "diomedea exulans amsterdam" ; Times: 1
+	Query: "Coccyzus americanus 2015" ; Times: 1
+	Query: "Pterodroma hasitata basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "starnoenas" ; Times: 1
+	Query: "bulweria fallax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1367 download events in this period)
+Total number of records downloaded: 7
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Coeligena iris" ; Times: 1
+
+
+End of report.
