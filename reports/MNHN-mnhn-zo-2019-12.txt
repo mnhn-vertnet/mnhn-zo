@@ -1,0 +1,135 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 480
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 77
+	Country: Netherlands ; Times: 3
+	Country: Portugal ; Times: 7
+	Country: Unknown ; Times: 6
+	Country: Philippines ; Times: 1
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Gambia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-30 ; Times: 4
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-26 ; Times: 8
+	Date: 2019-12-21 ; Times: 2
+	Date: 2019-12-20 ; Times: 2
+	Date: 2019-12-23 ; Times: 2
+	Date: 2019-12-22 ; Times: 11
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-28 ; Times: 4
+	Date: 2019-12-02 ; Times: 11
+	Date: 2019-12-18 ; Times: 19
+	Date: 2019-12-19 ; Times: 11
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-05 ; Times: 20
+	Date: 2019-12-04 ; Times: 5
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-01 ; Times: 5
+	Date: 2019-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "egretta schistacea" ; Times: 3
+	Query: "Phodilus badius" ; Times: 2
+	Query: "Turnix sylvaticus" ; Times: 3
+	Query: "Accipiter bicolor chilensis" ; Times: 1
+	Query: "mnhn Humblotia flavirostris" ; Times: 1
+	Query: "opisthoprora vntype:specimen sex:female" ; Times: 2
+	Query: "nothocrax" ; Times: 1
+	Query: "Androdon vntype:specimen" ; Times: 8
+	Query: "Arborophila cambodiana" ; Times: 1
+	Query: "Mascarinus mascarin" ; Times: 1
+	Query: "arachnothera sordida" ; Times: 2
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 4
+	Query: "catalognumber:2013-257 institutioncode:MNHN" ; Times: 1
+	Query: "Dreptes thomensis" ; Times: 1
+	Query: "Parophasma galinieri" ; Times: 1
+	Query: "cepphus 1932" ; Times: 1
+	Query: "Ramphodon vntype:specimen" ; Times: 6
+	Query: "anhima cornuta" ; Times: 2
+	Query: "Pachycephala mnhn" ; Times: 1
+	Query: "androdon vntype:specimen sex:female" ; Times: 1
+	Query: "Opisthoprora vntype:specimen sex:female" ; Times: 2
+	Query: "Strigops habroptilus" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "crax fasciolata" ; Times: 1
+	Query: "raphus cucullatus" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 2
+	Query: "Pterodroma hasitata vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Rhynochetos jubatus mnhn" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 2
+	Query: "Falco naumanni" ; Times: 3
+	Query: "2013-1064 mnhn" ; Times: 1
+	Query: "Pteruthius flaviscapis" ; Times: 1
+	Query: "pampusana" ; Times: 1
+	Query: "Zosterops palpebrosus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Eulampis jugularis vntype:specimen sex:female" ; Times: 1
+	Query: "Ramphomicron sex:female" ; Times: 1
+	Query: "Picus mentalis" ; Times: 1
+	Query: "Eulampis vntype:specimen sex:female" ; Times: 1
+	Query: "Cutia nipalensis" ; Times: 2
+	Query: "Ramphomicron microrhynchum sex:female" ; Times: 2
+	Query: "Androdon vntype:specimen sex:female" ; Times: 1
+	Query: "Opisthoprora" ; Times: 1
+	Query: "Cinnyris coccinigastrus" ; Times: 3
+	Query: "marsh dulzura california" ; Times: 2
+	Query: "Campethera maculosa" ; Times: 1
+	Query: "Strigops habroptila" ; Times: 1
+	Query: "turdoides squamiceps" ; Times: 3
+	Query: "Humblotia flavirostris" ; Times: 5
+	Query: "coeligena iris" ; Times: 1
+	Query: "catalognumber:2013-273 institutioncode:MNHN" ; Times: 1
+	Query: "Ramphodon vntype:specimen sex:female" ; Times: 1
+	Query: "Ramphodon sex:female" ; Times: 6
+	Query: "Gallicolumba" ; Times: 1
+	Query: "Opisthoprora vntype:specimen" ; Times: 3
+	Query: "Ramphocinclus brachyurus" ; Times: 1
+	Query: "Megadyptes antipodes" ; Times: 1
+	Query: "Cyanoramphus zealandicus" ; Times: 1
+	Query: "CIRCUS PYGARGUS" ; Times: 4
+	Query: "Columba nitidissima" ; Times: 1
+	Query: "Oenanthe hispanica" ; Times: 1
+	Query: "(Sarcoramphus papa) year &lt;= 1900" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 596 download events in this period)
+Total number of records downloaded: 118
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Hong Kong ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-01 ; Times: 2
+	Date: 2019-12-02 ; Times: 3
+	Date: 2019-12-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Circus aeruginosus" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Accipiter bicolor chilensis" ; Times: 1
+	Query: "crax fasciolata" ; Times: 1
+	Query: "CIRCUS PYGARGUS" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+
+
+End of report.
