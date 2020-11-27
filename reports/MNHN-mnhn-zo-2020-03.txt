@@ -1,0 +1,134 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 121
+Number of records retrieved in searches: 621
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 58
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: Panama ; Times: 1
+	Country: Finland ; Times: 1
+	Country: India ; Times: 10
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 10
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 4
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 5
+	Country: Argentina ; Times: 5
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-08 ; Times: 4
+	Date: 2020-03-03 ; Times: 26
+	Date: 2020-03-01 ; Times: 6
+	Date: 2020-03-30 ; Times: 14
+	Date: 2020-03-05 ; Times: 4
+	Date: 2020-03-25 ; Times: 4
+	Date: 2020-03-02 ; Times: 1
+	Date: 2020-03-23 ; Times: 3
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-19 ; Times: 1
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-04 ; Times: 8
+	Date: 2020-03-07 ; Times: 15
+	Date: 2020-03-06 ; Times: 14
+	Date: 2020-03-12 ; Times: 7
+	Date: 2020-03-14 ; Times: 7
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "stachyris rufifrons" ; Times: 2
+	Query: "Dicrurus ludwigii" ; Times: 5
+	Query: "puffinus elegans" ; Times: 6
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "Spatula clypeata" ; Times: 2
+	Query: "diomedea melanophrys" ; Times: 2
+	Query: "Wallichii" ; Times: 2
+	Query: "dicrurus modestus" ; Times: 1
+	Query: "tinamus major" ; Times: 1
+	Query: "treron australis" ; Times: 3
+	Query: "coeligena prunellei" ; Times: 2
+	Query: "acrocephalus arundinaceus" ; Times: 14
+	Query: "Ceratogymna atrata NOT (&#34;skin&#34; OR &#34;skeleton&#34;)" ; Times: 1
+	Query: "Ceratogymna atrata NOT (&#34;skin&#34; OR &#34;skeleton&#34; OR &#34;skel&#34; OR &#34;sound&#34;)" ; Times: 1
+	Query: "turdoides malcolmi" ; Times: 1
+	Query: "tyto furcata" ; Times: 4
+	Query: "wallichii" ; Times: 2
+	Query: "Ceratogymna atrata NOT (&#34;skin&#34; OR &#34;skeleton&#34; OR &#34;mount&#34; OR &#34;skel&#34; OR &#34;sound&#34;)" ; Times: 1
+	Query: "taccocua leschenaultii" ; Times: 1
+	Query: "ciconia maguari" ; Times: 2
+	Query: "Ceratogymna atrata NOT (&#34;skin&#34; OR &#34;skeleton&#34; OR &#34;mounted&#34; OR &#34;skel&#34; OR &#34;sound&#34;)" ; Times: 1
+	Query: "bulweria bulweria" ; Times: 1
+	Query: "pomatorhinus eidos" ; Times: 3
+	Query: "tyto alba furcata" ; Times: 1
+	Query: "Yoko" ; Times: 1
+	Query: "pelecanus philippensis" ; Times: 3
+	Query: "Loriculus pusillus" ; Times: 3
+	Query: "eriocnemis luciani" ; Times: 1
+	Query: "Pteruthius flaviscapis" ; Times: 5
+	Query: "pterodroma macroptera" ; Times: 1
+	Query: "Pteruthius flaviscapis Bengal" ; Times: 1
+	Query: "Cossypha niveicapilla" ; Times: 6
+	Query: "Ceratogymna NOT (&#34;skin&#34; OR &#34;skeleton&#34;)" ; Times: 1
+	Query: "Cuculus canorus" ; Times: 5
+	Query: "aracari" ; Times: 1
+	Query: "TRING" ; Times: 1
+	Query: "Cossypha niveicapilla mappable:1" ; Times: 10
+	Query: "Ceratogymna atrata NOT (&#34;skin&#34; OR &#34;skeleton&#34; OR &#34;mount&#34; OR &#34;mounted&#34; OR &#34;skel&#34; OR &#34;sound&#34;)" ; Times: 1
+	Query: "penelope pileata" ; Times: 3
+	Query: "picus viridis" ; Times: 1
+	Query: "Pteroglossus beauharnaesii" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "Phoenicoparrus andinus" ; Times: 1
+	Query: "eremita" ; Times: 1
+	Query: "pelecanus crispus" ; Times: 1
+	Query: "bulweria bulweria year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Caprimulgus 1938" ; Times: 1
+	Query: "Sierra de Huautla" ; Times: 1
+	Query: "Ceratogymna atrata NOT (&#34;skin&#34; OR &#34;skeleton&#34; OR &#34;mechanical sound&#34;)" ; Times: 1
+	Query: "Ceratogymna atrata NOT (&#34;skin&#34; OR &#34;skeleton&#34; OR &#34;sound&#34;)" ; Times: 1
+	Query: "egretta gularis" ; Times: 1
+	Query: "Delichon urbicum" ; Times: 1
+	Query: "Pellorneum tickelli" ; Times: 3
+	Query: "bulweria fallax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 853 download events in this period)
+Total number of records downloaded: 29
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 1
+	Country: Guadeloupe ; Times: 3
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-05 ; Times: 3
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "VULTUR GRYPHUS" ; Times: 1
+	Query: "&#34;Columba leucocephala&#34; OR &#34;Patagioenas leucocephala&#34; vntype:specimen" ; Times: 3
+	Query: "penelope pileata" ; Times: 1
+	Query: "egretta gularis" ; Times: 1
+	Query: "Amazilia cyanocephala" ; Times: 1
+
+
+End of report.
