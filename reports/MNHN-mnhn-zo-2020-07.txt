@@ -1,0 +1,151 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 723
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Madagascar ; Times: 5
+	Country: Peru ; Times: 6
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 8
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 11
+	Country: France ; Times: 1
+	Country: United States ; Times: 25
+	Country: Malaysia ; Times: 8
+	Country: Germany ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: South Korea ; Times: 3
+	Country: Venezuela ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-22 ; Times: 2
+	Date: 2020-07-21 ; Times: 11
+	Date: 2020-07-20 ; Times: 6
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 5
+	Date: 2020-07-25 ; Times: 3
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-01 ; Times: 1
+	Date: 2020-07-29 ; Times: 8
+	Date: 2020-07-02 ; Times: 4
+	Date: 2020-07-05 ; Times: 11
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-23 ; Times: 3
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-12 ; Times: 2
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-31 ; Times: 9
+	Date: 2020-07-14 ; Times: 4
+	Date: 2020-07-17 ; Times: 2
+	Date: 2020-07-15 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "singapour" ; Times: 1
+	Query: "Timalia pileata" ; Times: 6
+	Query: "Uratelornis chimaera" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Cyanecula svecica" ; Times: 1
+	Query: "Tichodroma muraria" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "Geoffroyus timorlaoensis" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "aegithalos concinnus" ; Times: 6
+	Query: "lalandi mnhn" ; Times: 1
+	Query: "Pterocles personatus" ; Times: 4
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "gbifdatasetid:ba0c03ab-fa61-4a3c-8db7-35c8c3454168" ; Times: 1
+	Query: "mus caroli" ; Times: 8
+	Query: "Rynchops flavirostris" ; Times: 3
+	Query: "Neocrex erythrops" ; Times: 2
+	Query: "Balaeniceps" ; Times: 2
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "MNHN 5725" ; Times: 1
+	Query: "Androdon" ; Times: 1
+	Query: "Glareola ocularis" ; Times: 2
+	Query: "distrito capital de bogota" ; Times: 1
+	Query: "Spelaeornis chocolatinus" ; Times: 3
+	Query: "dendrocopos leucotos" ; Times: 3
+	Query: "Carimang" ; Times: 1
+	Query: "Rynchops albicollis" ; Times: 1
+	Query: "thraupis episcopus" ; Times: 1
+	Query: "Stephanoxis lalandi mnhn" ; Times: 1
+	Query: "Grallaria mnhn" ; Times: 1
+	Query: "MNHN 5947" ; Times: 1
+	Query: "Larus vegae" ; Times: 1
+	Query: "Rhodonessa caryophyllacea" ; Times: 4
+	Query: "MNHN Fort Lamy" ; Times: 1
+	Query: "kibosho" ; Times: 1
+	Query: "Pavo muticus" ; Times: 2
+	Query: "Androdon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "bombus" ; Times: 2
+	Query: "ensifera ensifera" ; Times: 1
+	Query: "Pomatorhinus mnhn" ; Times: 1
+	Query: "IND-R 536" ; Times: 1
+	Query: "chionis minor" ; Times: 2
+	Query: "parus cinereus" ; Times: 1
+	Query: "Psittacara maugei" ; Times: 7
+	Query: "institutioncode:mnhn 1934" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 940 download events in this period)
+Total number of records downloaded: 388
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 4
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "Pavo muticus" ; Times: 3
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 3
+	Query: "spinus tristis" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+
+
+End of report.
