@@ -1,0 +1,220 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 176
+Number of records retrieved in searches: 2265
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 14
+	Country: Australia ; Times: 8
+	Country: Italy ; Times: 4
+	Country: Ireland ; Times: 1
+	Country: Portugal ; Times: 33
+	Country: Unknown ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 96
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-28 ; Times: 4
+	Date: 2020-08-19 ; Times: 2
+	Date: 2020-08-10 ; Times: 38
+	Date: 2020-08-01 ; Times: 5
+	Date: 2020-08-14 ; Times: 2
+	Date: 2020-08-04 ; Times: 4
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-06 ; Times: 10
+	Date: 2020-08-07 ; Times: 11
+	Date: 2020-08-26 ; Times: 2
+	Date: 2020-08-13 ; Times: 3
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-21 ; Times: 89
+
+List of queries that retrieved data from the resource: 
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "Xema sabini" ; Times: 1
+	Query: "mappable:1 scientificname:Phoeniculus purpureus" ; Times: 1
+	Query: "Gallicolumba jobiensis" ; Times: 1
+	Query: "Turdus eunomus" ; Times: 1
+	Query: "Cinnyris venustus" ; Times: 1
+	Query: "mappable:1 scientificname:Muscicapa dauurica" ; Times: 1
+	Query: "mappable:1 scientificname:Aix galericulata" ; Times: 1
+	Query: "Periparus ater" ; Times: 1
+	Query: "Corvus corone" ; Times: 1
+	Query: "spiti" ; Times: 2
+	Query: "Phaps chalcoptera" ; Times: 1
+	Query: "mappable:1 scientificname:Pycnonotus jocosus" ; Times: 1
+	Query: "Fulica atra" ; Times: 1
+	Query: "mappable:1 scientificname:Zenaida auriculata" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 1
+	Query: "Psittacula eupatria" ; Times: 1
+	Query: "mappable:1 scientificname:Megadyptes antipodes" ; Times: 1
+	Query: "mappable:1 scientificname:Garrulax leucolophus" ; Times: 1
+	Query: "Motacilla cinerea" ; Times: 1
+	Query: "Pyrrhula pyrrhula" ; Times: 1
+	Query: "Rabor MNHN" ; Times: 1
+	Query: "C. psittacula" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 1
+	Query: "mappable:1 scientificname:Psittacula krameri" ; Times: 1
+	Query: "Cyanopica cyanus" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "Psittacula alexandri" ; Times: 1
+	Query: "Heteralocha acutirostris" ; Times: 2
+	Query: "mappable:1 scientificname:Alectoris graeca" ; Times: 1
+	Query: "Turtur tympanistria" ; Times: 1
+	Query: "Catreus wallichii" ; Times: 1
+	Query: "mappable:1 scientificname:Columba guinea" ; Times: 1
+	Query: "mappable:1 scientificname:Oena capensis" ; Times: 1
+	Query: "Turdus plumbeus" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "crithagra gularis" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "Pionopsitta pileata" ; Times: 1
+	Query: "Gracula religiosa" ; Times: 1
+	Query: "Lanius senator badius" ; Times: 1
+	Query: "mappable:1 scientificname:Euplectes macroura" ; Times: 1
+	Query: "Apalis flavida" ; Times: 1
+	Query: "Streptopelia orientalis" ; Times: 1
+	Query: "Turdus iliacus" ; Times: 1
+	Query: "Crossoptilon auritum" ; Times: 1
+	Query: "L. canus" ; Times: 1
+	Query: "Radde" ; Times: 1
+	Query: "Columba palumbus" ; Times: 1
+	Query: "Turdus smithi" ; Times: 1
+	Query: "Larus marinus" ; Times: 1
+	Query: "mappable:1 scientificname:Streptopelia roseogrisea" ; Times: 1
+	Query: "Stercorarius longicaudus" ; Times: 1
+	Query: "Solea solea" ; Times: 2
+	Query: "Pezoporus occidentalis" ; Times: 18
+	Query: "Lophura swinhoii" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "Phalacrocorax varius" ; Times: 1
+	Query: "Timor Chalcophaps" ; Times: 1
+	Query: "mappable:1 scientificname:Estrilda melpoda" ; Times: 1
+	Query: "Blakiston" ; Times: 3
+	Query: "recordedby:lehmann basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Psittacula wardi" ; Times: 1
+	Query: "Phasianus versicolor" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "Cisticola cantans" ; Times: 1
+	Query: "Heterophasia melanoleuca" ; Times: 1
+	Query: "mappable:1 scientificname:Zosterops senegalensis" ; Times: 1
+	Query: "Cisticola fulvicapilla" ; Times: 1
+	Query: "Phalacrocorax magellanicus" ; Times: 1
+	Query: "Delichon urbicum" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "11295" ; Times: 1
+	Query: "Motacilla alba" ; Times: 1
+	Query: "Columba oenas" ; Times: 1
+	Query: "mappable:1 scientificname:Lonchura cucullata" ; Times: 1
+	Query: "Tachycineta albiventer" ; Times: 1
+	Query: "Turdus philomelos" ; Times: 1
+	Query: "mappable:1 scientificname:Estrilda astrild" ; Times: 1
+	Query: "Colius striatus" ; Times: 1
+	Query: "Mascarinus mascarin" ; Times: 2
+	Query: "Turdus pelios" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Chalcophaps stephani" ; Times: 1
+	Query: "Hedydipna collaris" ; Times: 1
+	Query: "mappable:1 scientificname:Streptopelia orientalis" ; Times: 1
+	Query: "Chrysolophus amherstiae" ; Times: 1
+	Query: "Chalcomitra senegalensis" ; Times: 1
+	Query: "mappable:1 scientificname:Coracopsis vasa" ; Times: 1
+	Query: "mappable:1 scientificname:Necrosyrtes monachus" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Lophura edwardsi" ; Times: 1
+	Query: "mappable:1 scientificname:Leiothrix lutea" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Creagrus furcatus" ; Times: 1
+	Query: "mappable:1 scientificname:Eudocimus ruber" ; Times: 1
+	Query: "trait" ; Times: 1
+	Query: "mappable:1 scientificname:Bucorvus abyssinicus" ; Times: 1
+	Query: "mappable:1 scientificname:Todiramphus chloris" ; Times: 1
+	Query: "Anthus hodgsoni" ; Times: 1
+	Query: "Numenius borealis" ; Times: 2
+	Query: "Anas falcata" ; Times: 1
+	Query: "Aethia pygmaea" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "Columba rupestris" ; Times: 1
+	Query: "Minla cyanouroptera" ; Times: 1
+	Query: "Phylloscopus collybita" ; Times: 1
+	Query: "Aegithalos concinnus" ; Times: 1
+	Query: "Turdoides plebejus" ; Times: 1
+	Query: "Syrmaticus ellioti" ; Times: 1
+	Query: "Prinia subflava" ; Times: 1
+	Query: "Blakiston birds" ; Times: 1
+	Query: "ficedula albicollis" ; Times: 1
+	Query: "mappable:1 scientificname:Euplectes axillaris" ; Times: 1
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 4
+	Query: "mappable:1 scientificname:Platalea ajaja" ; Times: 1
+	Query: "Poecile palustris" ; Times: 1
+	Query: "mappable:1 scientificname:Forpus passerinus" ; Times: 1
+	Query: "mappable:1 scientificname:Alectoris chukar" ; Times: 1
+	Query: "Anas formosa" ; Times: 1
+	Query: "mappable:1 scientificname:Columbina talpacoti" ; Times: 1
+	Query: "lanius senator badius" ; Times: 1
+	Query: "mappable:1 scientificname:Pyrenestes sanguineus" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Phyllastrephus icterinus" ; Times: 1
+	Query: "Phalacrocorax aristotelis" ; Times: 1
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "Sitta europaea" ; Times: 1
+	Query: "mappable:1 scientificname:Ploceus velatus" ; Times: 1
+	Query: "mappable:1 scientificname:Crithagra atrogularis" ; Times: 1
+	Query: "Sylvia curruca" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona aestiva" ; Times: 1
+	Query: "lanius senator" ; Times: 2
+	Query: "mappable:1 scientificname:Pytilia melba" ; Times: 1
+	Query: "Zoothera aurea" ; Times: 1
+	Query: "Syrmaticus reevesii" ; Times: 1
+	Query: "Crossoptilon mantchuricum" ; Times: 1
+	Query: "Aegithalos caudatus" ; Times: 1
+	Query: "Psittacara maugei" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 756 download events in this period)
+Total number of records downloaded: 395
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-08 ; Times: 2
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "spiti" ; Times: 1
+	Query: "Loja" ; Times: 2
+	Query: "alauda" ; Times: 1
+
+
+End of report.
