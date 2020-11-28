@@ -1,0 +1,170 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 144
+Number of records retrieved in searches: 912
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Ireland ; Times: 3
+	Country: Portugal ; Times: 8
+	Country: Singapore ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: India ; Times: 6
+	Country: France ; Times: 5
+	Country: United States ; Times: 32
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Colombia ; Times: 19
+	Country: Unknown ; Times: 24
+	Country: China ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Hong Kong ; Times: 29
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 4
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-16 ; Times: 30
+	Date: 2020-09-17 ; Times: 23
+	Date: 2020-09-25 ; Times: 16
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-18 ; Times: 3
+	Date: 2020-09-30 ; Times: 3
+	Date: 2020-09-19 ; Times: 2
+	Date: 2020-09-09 ; Times: 10
+	Date: 2020-09-24 ; Times: 5
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-03 ; Times: 8
+	Date: 2020-09-02 ; Times: 6
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-23 ; Times: 21
+	Date: 2020-09-07 ; Times: 4
+	Date: 2020-09-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Tetrao urogallus" ; Times: 1
+	Query: "Anthracothorax viridigula" ; Times: 1
+	Query: "Columba leuconota" ; Times: 51
+	Query: "Aerodramus francicus" ; Times: 1
+	Query: "Phodilus badius" ; Times: 1
+	Query: "Treron bicinctus domvilii" ; Times: 1
+	Query: "Lophornis pavoninus" ; Times: 1
+	Query: "scientificname:Vultur gryphus" ; Times: 9
+	Query: "Treron phoenicopterus phoenicopterus" ; Times: 1
+	Query: "Clamator jacobinus serratus" ; Times: 1
+	Query: "MNHN ZO MO-" ; Times: 1
+	Query: "tinamus major" ; Times: 1
+	Query: "MNHN Colombie" ; Times: 1
+	Query: "Treron phoenicopterus chlorigaster" ; Times: 1
+	Query: "Chrysocolaptes festivus" ; Times: 1
+	Query: "Columba torringtoniae" ; Times: 2
+	Query: "scientificname:Thalassinus Colibri" ; Times: 1
+	Query: "Treron phoenicopterus annamensis" ; Times: 1
+	Query: "MNHN 364" ; Times: 1
+	Query: "Threnetes leucurus" ; Times: 1
+	Query: "Lophornis gouldii" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 8
+	Query: "turnix sylvaticus" ; Times: 1
+	Query: "MNHN ZO MO bogota" ; Times: 1
+	Query: "Lophornis adorabilis" ; Times: 1
+	Query: "Psittacula krameri manillensis" ; Times: 2
+	Query: "Pterocles senegallus vntype:specimen" ; Times: 1
+	Query: "Phaethornis hispidus" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Buteo platypterus rivierei" ; Times: 1
+	Query: "scientificname:Streptopelia decaocto" ; Times: 10
+	Query: "leiothrix argentauris" ; Times: 1
+	Query: "Tetrao urogallus" ; Times: 1
+	Query: "anthus bogotensis juvenile" ; Times: 1
+	Query: "napothera proxima" ; Times: 1
+	Query: "alcedo hercules" ; Times: 1
+	Query: "year &gt; 1985 NOT CLO NOT &#34;nature Kenya&#34; CHLOROPICUS" ; Times: 1
+	Query: "Solea solea" ; Times: 3
+	Query: "APUS pallidus" ; Times: 1
+	Query: "Pterocles orientalis" ; Times: 2
+	Query: "Treron phoenicopterus viridifrons" ; Times: 1
+	Query: "Treron phoenicopterus" ; Times: 2
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "MNHN viridis" ; Times: 1
+	Query: "Gallus lafayettii" ; Times: 1
+	Query: "pterocles orientalis vntype:specimen" ; Times: 1
+	Query: "Tachymarptis melba" ; Times: 1
+	Query: "mappable:1 scientificname:Streptopelia decaocto" ; Times: 1
+	Query: "Psittacula wardi" ; Times: 1
+	Query: "Taccocua leschenaultii leschenaultii" ; Times: 1
+	Query: "Eremophila alpestris flava" ; Times: 2
+	Query: "Treron bicinctus" ; Times: 1
+	Query: "Topaza pella" ; Times: 1
+	Query: "Streptopelia chinensis suratensis" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "scientificname:Thalassinus colibri" ; Times: 5
+	Query: "Pterocles orientalis vntype:specimen" ; Times: 1
+	Query: "MNHN Dyaphorophyia chalybea" ; Times: 1
+	Query: "Tetrao urogallus vntype:specimen hassex:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 976 download events in this period)
+Total number of records downloaded: 559
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Netherlands ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: United States ; Times: 9
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-25 ; Times: 6
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-13 ; Times: 5
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-09 ; Times: 3
+	Date: 2020-09-02 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Anthracothorax viridigula" ; Times: 1
+	Query: "Columba leuconota" ; Times: 2
+	Query: "Aerodramus francicus" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "Lophornis pavoninus" ; Times: 1
+	Query: "APUS apus" ; Times: 1
+	Query: "(Synthliboramphus)" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "APUS pallidus" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Threnetes leucurus" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "Pterocles senegallus vntype:specimen" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "Phaethornis hispidus" ; Times: 1
+	Query: "Lophornis gouldii" ; Times: 1
+	Query: "Collocalia esculenta" ; Times: 1
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "Doryfera johannae" ; Times: 1
+	Query: "Tachymarptis melba" ; Times: 1
+	Query: "Topaza pella" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "Pterocles orientalis vntype:specimen" ; Times: 1
+
+
+End of report.
