@@ -1,0 +1,161 @@
+Report for Institution Code MNHN, Resource mnhn-zo
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 127
+Number of records retrieved in searches: 3274
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United Kingdom ; Times: 55
+	Country: Netherlands ; Times: 6
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 14
+	Country: United States ; Times: 20
+	Country: Switzerland ; Times: 12
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 16
+	Date: 2020-11-22 ; Times: 2
+	Date: 2020-11-05 ; Times: 6
+	Date: 2020-11-19 ; Times: 4
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-26 ; Times: 11
+	Date: 2020-11-09 ; Times: 2
+	Date: 2020-11-06 ; Times: 2
+	Date: 2020-11-14 ; Times: 2
+	Date: 2020-11-04 ; Times: 1
+	Date: 2020-11-16 ; Times: 3
+	Date: 2020-11-02 ; Times: 46
+	Date: 2020-11-01 ; Times: 1
+	Date: 2020-11-15 ; Times: 7
+	Date: 2020-11-23 ; Times: 2
+	Date: 2020-11-24 ; Times: 2
+	Date: 2020-11-12 ; Times: 6
+	Date: 2020-11-17 ; Times: 2
+	Date: 2020-11-25 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "(Oenanthe hispanica) year &gt;= 1950" ; Times: 1
+	Query: "Anser fabalis" ; Times: 1
+	Query: "Acrocephalus arundinaceus" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "puffinus yelkouan" ; Times: 4
+	Query: "Tachycineta albiventer" ; Times: 1
+	Query: "Apus melba" ; Times: 1
+	Query: "Apus pallidus" ; Times: 1
+	Query: "Turdus philomelos" ; Times: 1
+	Query: "harpyja" ; Times: 1
+	Query: "morus bassanus vntype:specimen country:&#34;France&#34; AND (NOT eggs)" ; Times: 2
+	Query: "Prinia subflava" ; Times: 1
+	Query: "Ficedula zanthopygia" ; Times: 1
+	Query: "Falco naumanni" ; Times: 2
+	Query: "scientificname:Merops apiaster" ; Times: 1
+	Query: "mappable:1 scientificname:Ramphodon naevius" ; Times: 1
+	Query: "Arachnothera longirostra buettikoferi" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 2
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "Montifringilla nivalis" ; Times: 1
+	Query: "(Oenanthe hispanica) year &gt;= 1900 year &lt;= 1940" ; Times: 1
+	Query: "Garrulus glandarius" ; Times: 4
+	Query: "amazona festiva" ; Times: 1
+	Query: "Corvus corone" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 1
+	Query: "Dendrocopos major" ; Times: 2
+	Query: "Turdus merula" ; Times: 1
+	Query: "Parus cyanistes" ; Times: 2
+	Query: "Corvus monedula" ; Times: 2
+	Query: "calonectris diomedea" ; Times: 2
+	Query: "Circus pygargus" ; Times: 3
+	Query: "Prunella modularis" ; Times: 1
+	Query: "recordedby:Fraser year &gt;= 1865 year &lt;= 1890" ; Times: 2
+	Query: "Sylvia atricapilla" ; Times: 2
+	Query: "morus bassanus vntype:specimen continent:europe AND (NOT eggs)" ; Times: 1
+	Query: "mappable:1 scientificname:Brotogeris tirica" ; Times: 3
+	Query: "harpia harpyja" ; Times: 2
+	Query: "Panurus biarmicus" ; Times: 1
+	Query: "Pycnonotus finlaysoni" ; Times: 1
+	Query: "Oenanthe hispanica" ; Times: 7
+	Query: "numenius borealis" ; Times: 2
+	Query: "Dendrocopos medius" ; Times: 1
+	Query: "MNHN 3122" ; Times: 2
+	Query: "Crax rubra" ; Times: 1
+	Query: "Delichon urbica" ; Times: 1
+	Query: "Turtur chalcospilos" ; Times: 2
+	Query: "Turdus eunomus" ; Times: 1
+	Query: "Sitta europaea" ; Times: 2
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "Falco tinnunculus" ; Times: 2
+	Query: "Ficedula albicilla" ; Times: 1
+	Query: "Hippolais polyglotta" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona vinacea" ; Times: 8
+	Query: "(Oenanthe hispanica) year &gt;= 1950 year &lt;= 1970" ; Times: 2
+	Query: "scientificname:Rupicola peruvianus*" ; Times: 1
+	Query: "Ephippiorhynchus senegalensis vntype:specimen" ; Times: 1
+	Query: "Accipiter nisus" ; Times: 2
+	Query: "(Oenanthe hispanica) year &gt;= 1950 year &lt;= 1980" ; Times: 1
+	Query: "Acrocephalus scirpaceus" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona aestiva" ; Times: 3
+	Query: "Cisticola cantans" ; Times: 1
+	Query: "parus cyanus" ; Times: 2
+	Query: "Eudocimus ruber" ; Times: 2
+	Query: "Calonectris diomedea vntype:specimen country:&#34;France&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Progne chalybea" ; Times: 1
+	Query: "numenius tenuirostris" ; Times: 1
+	Query: "morus bassanus vntype:specimen country:&#34;France&#34;" ; Times: 1
+	Query: "Zoothera aurea" ; Times: 1
+	Query: "psophia" ; Times: 1
+	Query: "gbifdatasetid:ba0c03ab-fa61-4a3c-8db7-35c8c3454168" ; Times: 1
+	Query: "Oenanthe isabellina" ; Times: 1
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Acrocephalus dumetorum" ; Times: 1
+	Query: "Delichon urbicum" ; Times: 1
+	Query: "rhynochetos jubatus" ; Times: 1
+	Query: "anser fabalis" ; Times: 1
+	Query: "Ficedula albicollis" ; Times: 1
+	Query: "Spilornis cheela" ; Times: 1
+	Query: "Lonchura cucullata" ; Times: 2
+	Query: "psittacula krameri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 842 download events in this period)
+Total number of records downloaded: 67
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Australia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-25 ; Times: 1
+	Date: 2020-11-08 ; Times: 2
+	Date: 2020-11-09 ; Times: 2
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "Polytelis alexandrae" ; Times: 1
+	Query: "Mus musculus" ; Times: 2
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+
+
+End of report.
